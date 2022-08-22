@@ -1,0 +1,29 @@
+{
+	"name": "mmmonk-annotation-demo",
+	"private": true,
+	"version": "0.0.0",
+	"type": "module",
+	"scripts": {
+		"dev": "vite",
+		"build": "vite build",
+		"preview": "vite preview",
+		"check": "tsc --noEmit"
+	},
+	"dependencies": {
+		"@fontsource/roboto": "^4.5.8",
+		"@material-ui/core": "^4.12.4",
+		"@material-ui/icons": "^4.11.3",
+		"html-react-parser": "^3.0.1",
+		"html-to-text": "^8.2.1",
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-rnd": "^10.3.7"
+	},
+	"devDependencies": {
+		"@types/react": "^18.0.17",
+		"@types/react-dom": "^18.0.6",
+		"@vitejs/plugin-react": "^2.0.1",
+		"typescript": "^4.7.4",
+		"vite": "^3.0.7"
+	}
+}

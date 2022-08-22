@@ -1,0 +1,16 @@
+{
+	"items": [
+		{
+			"id": "folio-1",
+			"body": {
+				"src": "liber-floridus-1.jpg"
+			}
+		},
+		{
+			"id": "folio-2",
+			"body": {
+				"src": "liber-floridus-2.jpg"
+			}
+		}
+	]
+}

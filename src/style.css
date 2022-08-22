@@ -1,0 +1,206 @@
+#annotation-demo {
+	width: 100%;
+	height: 100%;
+}
+
+.app {
+	--app-padding: 6px;
+	--color-selector-rgb: 255, 245, 0;
+	--color-muted: rgba(0, 0, 0, 0.4);
+	--color-focus: #e8f0ff;
+	--window-background: #000;
+	box-sizing: border-box;
+	background: rgb(220, 220, 220);
+	padding: var(--app-padding);
+	height: 100%;
+}
+
+.window {
+	background: var(--window-background) !important;
+	height: 100% !important;
+}
+
+.window-content {
+	display: flex;
+	height: calc(100% - 50px);
+}
+
+.top-toolbar {
+	border-top: 2px solid #1967d2;
+	background-color: #fff;
+}
+
+.viewport {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+.panel-area {
+	height: 100%;
+	background: white;
+	display: flex;
+	flex-direction: row-reverse;
+}
+
+.panel {
+	position: relative;
+	height: 100%;
+	overflow: auto;
+	border-left: 1px solid #21212114;
+}
+
+.anno-overline {
+	letter-spacing: 1.5px !important;
+	font-size: 10.5px !important;
+	color: var(--color-muted);
+}
+
+.anno-icon {
+	color: var(--color-muted);
+}
+
+.anno-card-closed {
+	border-left: 2px solid transparent !important;
+}
+
+.anno-card-open {
+	background-color: var(--color-focus) !important;
+	border-left: 2px solid #1967d2 !important;
+}
+
+.anno-panel-article {
+	display: flex;
+	row-gap: 1rem;
+	height: 100%;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.anno-panel-meta {
+	padding: 1rem;
+}
+
+.anno-panel-meta table {
+	/* table-layout: fixed; */
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.anno-panel-meta th {
+	text-align: left;
+}
+
+.anno-panel-meta td {
+	padding-block: 0.25rem;
+}
+
+.anno-panel-top {
+	padding: 1rem;
+	padding-top: 0.25rem;
+}
+
+.color-muted {
+	color: var(--color-muted);
+}
+
+.layer-list,
+.category-list {
+	padding: 1rem;
+	padding-top: 0;
+}
+
+.canvas path,
+.canvas ellipse {
+	pointer-events: all;
+	transition: fill 0.15s;
+	fill: transparent;
+	stroke: rgb(var(--color-selector-rgb));
+	stroke-width: 2;
+	vector-effect: non-scaling-stroke;
+}
+
+.selector.highlight path,
+.selector.highlight polygon,
+.selector.highlight circle,
+.selector.highlight rectangle,
+.selector.highlight ellipse,
+.selector:hover path,
+.selector:hover polygon,
+.selector:hover circle,
+.selector:hover rectangle,
+.selector:hover ellipse {
+	fill: rgba(var(--color-selector-rgb), 0.3);
+	cursor: pointer;
+}
+
+.folio-nav {
+	width: 100%;
+	height: 5rem;
+	background-color: rgba(255, 255, 255, 0.5);
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.format-plain p,
+.format-html {
+	font-family: "Georgia", serif;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	letter-spacing: 0.00938em;
+}
+
+.format-plain p {
+	margin: 0;
+}
+
+.format-html h1 {
+	font-style: inherit;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+	font-weight: 400;
+	margin: 0;
+}
+
+.anno-top-meta {
+	margin-top: 4rem;
+}
+
+.anno-top-meta p {
+	font-size: 0.8rem;
+}
+
+.anno-card .format-html h1 {
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.anno-card .format-html p {
+	margin: 0;
+}
+
+.anno-panel .format-html h1 {
+	font-weight: 400;
+	font-size: 2rem;
+	margin-bottom: 4rem;
+}
+
+.anno-card main {
+	max-height: 10rem;
+	overflow: hidden;
+	position: relative;
+}
+
+/* .anno-card main:before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: linear-gradient(transparent 2rem, white 10rem);
+} */

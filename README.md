@@ -42,9 +42,9 @@ The build output can be found in `dist`.
 
 ## Structure
 
-- `public` contains static assets like the images of the Liber Floridus used in the demo.
-- `src` contains the sourcecode of the
-- `src/main.tsx` is the entrypoint of the React app.
-- `src/config.ts` contains the available categories, their initial state and icon.
-- `src/annotations.json` contains the annotations using the [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/) with an added `category` key that maps to the `id` key found in the categories in `src/config.ts`
-- `src/pages.json` contains a simplified subset of an IIIF-manifest. The `body.src` in here maps to the files in `public`. The page `id` is used as target by the annotations in `src/annotations.json`.
+- [`public`](public) contains static assets like the images of the Liber Floridus used in the demo.
+- [`src`](src) contains the sourcecode of the
+- [`src/main.tsx`](src/main.tsx) is the entrypoint of the React app.
+- [`src/config.ts`](src/config.ts) contains the available categories, their initial state and icon.
+- [`src/annotations.json`](src/annotations.json) contains the annotations using the [Web Annotation Data Model](https://www.w3.org/TR/annotation-model/) with an added `category` key that maps to the `id` key found in the categories in `src/config.ts`
+- [`src/pages.json`](src/pages.json) contains a simplified subset of an IIIF-manifest. The `body.src` in here maps to the files in `public`. The page `id` is used as target by the annotations in `src/annotations.json`.

@@ -13,7 +13,7 @@ import AnnotationBody from "./AnnotationBody"
 import { useAnnotations } from "../hooks/useAnnotations"
 
 function formatDate(dateString: string) {
-	return new Date(dateString).toLocaleDateString("nl-BE", {
+	return new Date(dateString).toLocaleDateString("en-UK", {
 		year: "numeric",
 		month: "long",
 		day: "numeric",
@@ -66,7 +66,7 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 									type="button"
 									onClick={() => togglePinAnnotation(annotation.id)}
 									aria-label={
-										isPinned ? "Annotatie is vastgemaakt" : "Zet annotatie vast"
+										isPinned ? "Annotation is pinned" : "Pin annotation"
 									}
 								>
 									{isPinned ? <LockSharp /> : <LockOpenSharp />}
@@ -75,7 +75,7 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 									size="small"
 									type="button"
 									onClick={() => closeAnnotation(annotation.id)}
-									aria-label="Sluit deze annotatie"
+									aria-label="Close this annotation"
 								>
 									<CloseIcon fontSize="inherit" />
 								</IconButton>
@@ -84,8 +84,8 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 					</Grid>
 					<div className="anno-top-meta">
 						<Typography variant="body2">
-							Geannoteerd door <Link href="#">{annotation.creator.name}</Link>{" "}
-							op {formatDate(annotation.created)}
+							Annotated by <Link href="#">{annotation.creator.name}</Link> on{" "}
+							{formatDate(annotation.created)}
 						</Typography>
 					</div>
 				</header>
@@ -100,7 +100,7 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 						<tbody>
 							<tr>
 								<th scope="row">
-									<Typography variant="body2">Geannoteerd door</Typography>
+									<Typography variant="body2">Annotated by</Typography>
 								</th>
 								<td>
 									<Typography variant="body2">
@@ -110,7 +110,7 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 							</tr>
 							<tr>
 								<th scope="row">
-									<Typography variant="body2">Aangemaakt op</Typography>
+									<Typography variant="body2">Created on</Typography>
 								</th>
 								<td>
 									<Typography variant="body2">

@@ -12,13 +12,13 @@ import AccordionDetails from "@material-ui/core/AccordionDetails"
 function MainPanel({ annotations }: { annotations: HydratedAnnotation[] }) {
 	return (
 		<>
-			<Section heading="Lagen" closedByDefault>
+			<Section heading="Layers" closedByDefault>
 				<LayerList />
 			</Section>
-			<Section heading="Categorieën">
+			<Section heading="Categories">
 				<CategoryList annotations={annotations} />
 			</Section>
-			<Section heading="Annotaties">
+			<Section heading="Annotations">
 				<AnnotationList annotations={annotations} />
 			</Section>
 		</>

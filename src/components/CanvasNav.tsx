@@ -21,7 +21,7 @@ function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
 				<IconButton
 					disabled={canvasIndex <= 0}
 					onClick={prev}
-					aria-label="Vorig item"
+					aria-label="Previous item"
 				>
 					<SvgIcon style={{ transform: "rotate(180deg)" }}>
 						<path d="M10 16.5l6-4.5-6-4.5v9zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path>
@@ -30,7 +30,7 @@ function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
 				<IconButton
 					disabled={canvasIndex + 1 >= total}
 					onClick={next}
-					aria-label="Volgend item"
+					aria-label="Next item"
 				>
 					<SvgIcon>
 						<path d="M10 16.5l6-4.5-6-4.5v9zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z"></path>
@@ -38,7 +38,7 @@ function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
 				</IconButton>
 			</div>
 			<Typography variant="body2">
-				{canvasIndex + 1} van {total}
+				{canvasIndex + 1} of {total}
 			</Typography>
 		</nav>
 	)

@@ -6,25 +6,25 @@ import LayersIcon from "@material-ui/icons/LayersSharp"
 export const categoryModel = [
 	{
 		id: "iconography",
-		name: "Iconografie",
+		name: "Iconography",
 		icon: ImageIcon,
 		enabledByDefault: true,
 	},
 	{
 		id: "pigments",
-		name: "Pigmenten",
+		name: "Pigments",
 		icon: PaletteIcon,
 		enabledByDefault: true,
 	},
 	{
 		id: "transcriptions",
-		name: "Tekst-transcripties",
+		name: "Transcriptions",
 		icon: TextFieldsIcon,
 		enabledByDefault: true,
 	},
 	{
 		id: "material",
-		name: "Materiaal-technische informatie",
+		name: "Material technical information",
 		icon: LayersIcon,
 		enabledByDefault: true,
 	},

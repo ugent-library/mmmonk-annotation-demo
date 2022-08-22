@@ -72,7 +72,7 @@ function CategoryList({ annotations }: { annotations: HydratedAnnotation[] }) {
 								name="all"
 							/>
 						}
-						label="Alle categorieën"
+						label="All categories"
 					/>
 					{categories.map(category => (
 						<Item category={category} key={category.id} />

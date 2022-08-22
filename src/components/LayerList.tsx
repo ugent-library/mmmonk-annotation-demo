@@ -18,7 +18,7 @@ function LayerSection() {
 		<div className="layer-list">
 			<FormControl component="fieldset">
 				<RadioGroup
-					aria-label="lagen"
+					aria-label="layers"
 					name="layer"
 					value={activeLayer}
 					onChange={e => handleChange(e.target.value)}
@@ -26,12 +26,12 @@ function LayerSection() {
 					<FormControlLabel
 						value="natural"
 						control={<Radio color="primary" />}
-						label="Natuurlijk licht"
+						label="Natural light"
 					/>
 					<FormControlLabel
 						value="infrared"
 						control={<Radio color="primary" />}
-						label="Infrarood"
+						label="Infrared"
 					/>
 				</RadioGroup>
 			</FormControl>

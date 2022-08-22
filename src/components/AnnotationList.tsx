@@ -78,7 +78,7 @@ function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 										fontSize: 12,
 									}}
 								>
-									{isOpen ? "Geopend" : "Bekijk details"}
+									{isOpen ? "Opened" : "View details"}
 								</Typography>
 							</footer>
 						</Grid>

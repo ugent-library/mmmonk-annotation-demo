@@ -1,17 +1,17 @@
 import parse, { domToReact, attributesToProps } from "html-react-parser"
 import pages from "../pages.json"
 import { useAnnotations } from "../hooks/useAnnotations"
-import FolioNav from "./CanvasNav"
+import PageNav from "./PageNav"
 
 type ViewerProps = {
-	canvasIndex: number
-	setCanvasIndex: React.Dispatch<React.SetStateAction<number>>
+	pageIndexState: PageIndexState
 	annotations: HydratedAnnotation[]
 }
 
-function Viewer({ canvasIndex, setCanvasIndex, annotations }: ViewerProps) {
-	const currentCanvas = pages.items[canvasIndex]
-	const { src } = currentCanvas.body
+function Viewer({ pageIndexState, annotations }: ViewerProps) {
+	const [pageIndex] = pageIndexState
+	const page = pages.items[pageIndex]
+	const { src } = page.body
 
 	return (
 		<div className="viewport">
@@ -26,7 +26,7 @@ function Viewer({ canvasIndex, setCanvasIndex, annotations }: ViewerProps) {
 				<image width="100%" height="100%" href={src} />
 				<Targets annotations={annotations} />
 			</svg>
-			<FolioNav canvasIndex={canvasIndex} setCanvasIndex={setCanvasIndex} />
+			<PageNav pageIndexState={pageIndexState} />
 		</div>
 	)
 }

@@ -3,23 +3,23 @@ import pages from "../pages.json"
 
 const total = pages.items.length
 
-type CanvasNavProps = {
-	canvasIndex: number
-	setCanvasIndex: React.Dispatch<React.SetStateAction<number>>
+type PageNavProps = {
+	pageIndexState: PageIndexState
 }
 
-function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
+function PageNav({ pageIndexState }: PageNavProps) {
+	const [pageIndex, setPageIndex] = pageIndexState
 	function next() {
-		if (canvasIndex + 1 < total) setCanvasIndex(prev => prev + 1)
+		if (pageIndex + 1 < total) setPageIndex(prev => prev + 1)
 	}
 	function prev() {
-		if (canvasIndex > 0) setCanvasIndex(prev => prev - 1)
+		if (pageIndex > 0) setPageIndex(prev => prev - 1)
 	}
 	return (
 		<nav className="folio-nav">
 			<div>
 				<IconButton
-					disabled={canvasIndex <= 0}
+					disabled={pageIndex <= 0}
 					onClick={prev}
 					aria-label="Previous item"
 				>
@@ -28,7 +28,7 @@ function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
 					</SvgIcon>
 				</IconButton>
 				<IconButton
-					disabled={canvasIndex + 1 >= total}
+					disabled={pageIndex + 1 >= total}
 					onClick={next}
 					aria-label="Next item"
 				>
@@ -38,10 +38,10 @@ function CanvasNav({ canvasIndex, setCanvasIndex }: CanvasNavProps) {
 				</IconButton>
 			</div>
 			<Typography variant="body2">
-				{canvasIndex + 1} of {total}
+				{pageIndex + 1} of {total}
 			</Typography>
 		</nav>
 	)
 }
 
-export default CanvasNav
+export default PageNav

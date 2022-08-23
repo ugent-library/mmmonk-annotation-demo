@@ -1,13 +1,14 @@
-import { useContext } from "react"
 import Radio from "@material-ui/core/Radio"
 import RadioGroup from "@material-ui/core/RadioGroup"
 import FormControlLabel from "@material-ui/core/FormControlLabel"
 import FormControl from "@material-ui/core/FormControl"
-import { LayerContext } from "../App"
 
-function LayerSection() {
-	const { activeLayer, setActiveLayer } = useContext(LayerContext)
+type LayerListProps = {
+	layerState: LayerState
+}
 
+function LayerList({ layerState }: LayerListProps) {
+	const [activeLayer, setActiveLayer] = layerState
 	function handleChange(value: string) {
 		if (value === "natural" || value === "infrared") {
 			setActiveLayer(value)
@@ -39,4 +40,4 @@ function LayerSection() {
 	)
 }
 
-export default LayerSection
+export default LayerList

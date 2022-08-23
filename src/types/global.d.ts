@@ -3,10 +3,12 @@ import { categoryModel } from "../config"
 export {}
 
 declare global {
+	type PageIndexState = [number, React.Dispatch<React.SetStateAction<number>>]
+
 	type Layer = "natural" | "infrared"
+	type LayerState = [Layer, React.Dispatch<React.SetStateAction<Layer>>]
 
 	type CategoryId = typeof categoryModel[number]["id"]
-
 	type Category = {
 		id: CategoryId
 		enabled?: boolean
@@ -14,6 +16,10 @@ declare global {
 		icon: any
 		enabledByDefault: boolean
 	}
+	type CategoryState = [
+		Category[],
+		React.Dispatch<React.SetStateAction<Category[]>>
+	]
 
 	type AnnotationState = {
 		id: string

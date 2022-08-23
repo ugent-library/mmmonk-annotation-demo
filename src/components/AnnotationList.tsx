@@ -1,4 +1,3 @@
-import { useContext } from "react"
 import {
 	Grid,
 	List,
@@ -8,15 +7,16 @@ import {
 	SvgIcon,
 } from "@material-ui/core"
 import AnnotationBody from "../components/AnnotationBody"
-import { CategoryContext } from "../App"
 import { useAnnotations } from "../hooks/useAnnotations"
 
 function AnnotationList({
 	annotations,
+	categoryState,
 }: {
 	annotations: HydratedAnnotation[]
+	categoryState: CategoryState
 }) {
-	const { enabledCategories } = useContext(CategoryContext)
+	const [enabledCategories] = categoryState
 	const filteredAnnotations = annotations.filter(
 		annotation =>
 			enabledCategories.find(category => category.id === annotation.category.id)

@@ -1,4 +1,3 @@
-import React from "react"
 import {
 	Grid,
 	Checkbox,
@@ -10,35 +9,36 @@ import {
 	FormControlLabel,
 } from "@material-ui/core"
 import { categoryModel } from "../config"
-import { CanvasContext, CategoryContext } from "../App"
 import { hydratedAnnotations as allAnnotations } from "../data"
 
 type CategoryItem = Category & {
 	occurencesInManifest: number
-	occurencesOnCanvas: number
+	occurencesOnPage: number
 }
 
-function CategoryList() {
-	const { canvasId } = React.useContext(CanvasContext)
+type CategoryListProps = {
+	pageId: string
+	categoryState: CategoryState
+}
 
+function CategoryList({ pageId, categoryState }: CategoryListProps) {
 	const categories: CategoryItem[] = categoryModel.map(category => {
 		const inManifest = allAnnotations.filter(
 			annotation => annotation.category.id === category.id
 		)
 
-		const onCanvas = inManifest.filter(annotation => {
-			return annotation.target.source === canvasId
+		const onPage = inManifest.filter(annotation => {
+			return annotation.target.source === pageId
 		})
 
 		return {
 			...category,
 			occurencesInManifest: inManifest.length,
-			occurencesOnCanvas: onCanvas.length,
+			occurencesOnPage: onPage.length,
 		}
 	})
 
-	const { enabledCategories, setEnabledCategories } =
-		React.useContext(CategoryContext)
+	const [enabledCategories, setEnabledCategories] = categoryState
 
 	function toggleAllCategories() {
 		setEnabledCategories(prev =>
@@ -81,7 +81,11 @@ function CategoryList() {
 						label="All categories"
 					/>
 					{categories.map(category => (
-						<Item category={category} key={category.id} />
+						<Item
+							category={category}
+							key={category.id}
+							categoryState={categoryState}
+						/>
 					))}
 				</FormGroup>
 			</FormControl>
@@ -93,11 +97,11 @@ export default CategoryList
 
 type ItemProps = {
 	category: CategoryItem
+	categoryState: CategoryState
 }
 
-function Item({ category }: ItemProps) {
-	const { enabledCategories, setEnabledCategories } =
-		React.useContext(CategoryContext)
+function Item({ category, categoryState }: ItemProps) {
+	const [enabledCategories, setEnabledCategories] = categoryState
 
 	const isEnabled = enabledCategories.find(
 		({ id }) => id === category.id
@@ -137,7 +141,7 @@ function Item({ category }: ItemProps) {
 							</Grid>
 							<Grid item>
 								<Typography variant="body2">
-									{category.occurencesOnCanvas}{" "}
+									{category.occurencesOnPage}{" "}
 									<span className="color-muted">
 										/ {category.occurencesInManifest}
 									</span>

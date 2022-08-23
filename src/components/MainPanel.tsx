@@ -9,17 +9,32 @@ import MuiAccordion from "@material-ui/core/Accordion"
 import MuiAccordionSummary from "@material-ui/core/AccordionSummary"
 import AccordionDetails from "@material-ui/core/AccordionDetails"
 
-function MainPanel({ annotations }: { annotations: HydratedAnnotation[] }) {
+type MainPanelProps = {
+	annotations: HydratedAnnotation[]
+	pageId: string
+	layerState: LayerState
+	categoryState: CategoryState
+}
+
+function MainPanel({
+	annotations,
+	pageId,
+	layerState,
+	categoryState,
+}: MainPanelProps) {
 	return (
 		<>
 			<Section heading="Layers" closedByDefault>
-				<LayerList />
+				<LayerList layerState={layerState} />
 			</Section>
 			<Section heading="Categories">
-				<CategoryList />
+				<CategoryList pageId={pageId} categoryState={categoryState} />
 			</Section>
 			<Section heading="Annotations">
-				<AnnotationList annotations={annotations} />
+				<AnnotationList
+					annotations={annotations}
+					categoryState={categoryState}
+				/>
 			</Section>
 		</>
 	)

@@ -28,6 +28,7 @@ type CategoryContext = {
 type CanvasContext = {
 	canvasIndex: number
 	setCanvasIndex: React.Dispatch<React.SetStateAction<number>>
+	canvasId: string
 }
 
 export const AnnotationContext = React.createContext<AnnotationContext>(null!)
@@ -48,11 +49,10 @@ function App() {
 	const [activeLayer, setActiveLayer] = React.useState<Layer>("natural")
 	const [canvasIndex, setCanvasIndex] = React.useState(0)
 
-	const currentCanvasId = pages.items[canvasIndex].id
+	const canvasId = pages.items[canvasIndex].id
 
 	const filteredAnnotations = hydratedAnnotations.filter(annotation => {
-		const annotationIsOnCurrentCanvas =
-			annotation.target.source === currentCanvasId
+		const annotationIsOnCurrentCanvas = annotation.target.source === canvasId
 		const annotationIsFromEnabledCategory = enabledCategories.find(
 			cat => cat.id === annotation.category.id
 		)?.enabled
@@ -70,7 +70,9 @@ function App() {
 				<AnnotationContext.Provider
 					value={{ activeAnnotations, setActiveAnnotations }}
 				>
-					<CanvasContext.Provider value={{ canvasIndex, setCanvasIndex }}>
+					<CanvasContext.Provider
+						value={{ canvasIndex, setCanvasIndex, canvasId }}
+					>
 						<CategoryContext.Provider
 							value={{ enabledCategories, setEnabledCategories }}
 						>

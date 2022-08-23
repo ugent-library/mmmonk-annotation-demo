@@ -1,4 +1,4 @@
-import { useContext } from "react"
+import React from "react"
 import {
 	Grid,
 	Checkbox,
@@ -10,7 +10,7 @@ import {
 	FormControlLabel,
 } from "@material-ui/core"
 import { categoryModel } from "../config"
-import { CategoryContext } from "../App"
+import { CanvasContext, CategoryContext } from "../App"
 import { hydratedAnnotations as allAnnotations } from "../data"
 
 type CategoryItem = Category & {
@@ -18,21 +18,27 @@ type CategoryItem = Category & {
 	occurencesOnCanvas: number
 }
 
-function CategoryList({ annotations }: { annotations: HydratedAnnotation[] }) {
+function CategoryList() {
+	const { canvasId } = React.useContext(CanvasContext)
+
 	const categories: CategoryItem[] = categoryModel.map(category => {
+		const inManifest = allAnnotations.filter(
+			annotation => annotation.category.id === category.id
+		)
+
+		const onCanvas = inManifest.filter(annotation => {
+			return annotation.target.source === canvasId
+		})
+
 		return {
 			...category,
-			occurencesInManifest: allAnnotations.filter(
-				annotation => annotation.category.id === category.id
-			).length,
-			occurencesOnCanvas: annotations.filter(
-				annotation => annotation.category.id === category.id
-			).length,
+			occurencesInManifest: inManifest.length,
+			occurencesOnCanvas: onCanvas.length,
 		}
 	})
 
 	const { enabledCategories, setEnabledCategories } =
-		useContext(CategoryContext)
+		React.useContext(CategoryContext)
 
 	function toggleAllCategories() {
 		setEnabledCategories(prev =>
@@ -91,7 +97,7 @@ type ItemProps = {
 
 function Item({ category }: ItemProps) {
 	const { enabledCategories, setEnabledCategories } =
-		useContext(CategoryContext)
+		React.useContext(CategoryContext)
 
 	const isEnabled = enabledCategories.find(
 		({ id }) => id === category.id

@@ -16,7 +16,7 @@ function MainPanel({ annotations }: { annotations: HydratedAnnotation[] }) {
 				<LayerList />
 			</Section>
 			<Section heading="Categories">
-				<CategoryList annotations={annotations} />
+				<CategoryList />
 			</Section>
 			<Section heading="Annotations">
 				<AnnotationList annotations={annotations} />

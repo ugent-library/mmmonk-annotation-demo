@@ -1,12 +1,11 @@
 import { categoryModel } from "../config"
 
-export {}
-
 declare global {
-	type PageIndexState = [number, React.Dispatch<React.SetStateAction<number>>]
-
-	type Layer = "natural" | "infrared"
-	type LayerState = [Layer, React.Dispatch<React.SetStateAction<Layer>>]
+	type View = {
+		pageIndex: number
+		layerIndex: number
+	}
+	type ViewState = [View, React.Dispatch<React.SetStateAction<View>>]
 
 	type CategoryId = typeof categoryModel[number]["id"]
 	type Category = {

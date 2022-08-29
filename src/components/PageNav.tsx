@@ -5,19 +5,29 @@ import pages from "../pages.json"
 const total = pages.items.length
 
 type PageNavProps = {
-	pageIndexState: PageIndexState
+	viewState: ViewState
 }
 
-function PageNav({ pageIndexState }: PageNavProps) {
-	const [pageIndex, setPageIndex] = pageIndexState
+function PageNav({ viewState }: PageNavProps) {
+	const [view, setView] = viewState
+	const { pageIndex } = view
+
 	const { closeAllExceptPinnedAnnotations } = useAnnotations()
 	function next() {
 		closeAllExceptPinnedAnnotations()
-		if (pageIndex + 1 < total) setPageIndex(prev => prev + 1)
+		if (pageIndex + 1 < total)
+			setView(prev => ({
+				pageIndex: prev.pageIndex + 1,
+				layerIndex: 0,
+			}))
 	}
 	function prev() {
 		closeAllExceptPinnedAnnotations()
-		if (pageIndex > 0) setPageIndex(prev => prev - 1)
+		if (pageIndex > 0)
+			setView(prev => ({
+				pageIndex: prev.pageIndex - 1,
+				layerIndex: 0,
+			}))
 	}
 	return (
 		<nav className="folio-nav">

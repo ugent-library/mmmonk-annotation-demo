@@ -8,15 +8,15 @@ import { useAnnotations } from "../hooks/useAnnotations"
 type PanelsProps = {
 	annotations: HydratedAnnotation[]
 	pageId: string
-	layerState: LayerState
 	categoryState: CategoryState
+	viewState: ViewState
 }
 
 function Panels({
 	annotations,
 	pageId,
-	layerState,
 	categoryState,
+	viewState,
 }: PanelsProps) {
 	const { activeAnnotations } = useAnnotations()
 
@@ -25,8 +25,8 @@ function Panels({
 			<MainPanel
 				annotations={annotations}
 				pageId={pageId}
-				layerState={layerState}
 				categoryState={categoryState}
+				viewState={viewState}
 			/>
 			{activeAnnotations.map(activeAnnotation => {
 				const hydratedAnnotation = hydratedAnnotations.find(

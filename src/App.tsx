@@ -22,15 +22,18 @@ const defaultCategories = categoryModel.map(category => ({
 	enabled: category.enabledByDefault,
 }))
 
+const defaultView = {
+	pageIndex: 0,
+	layerIndex: 0,
+}
+
 function App() {
 	const [activeAnnotations, setActiveAnnotations] =
 		React.useState<AnnotationState>([])
 
-	const pageIndexState = React.useState<number>(0)
-	const [pageIndex] = pageIndexState
-	const pageId = pages.items[pageIndex].id
-
-	const layerState = React.useState<Layer>("natural")
+	const viewState = React.useState<View>(defaultView)
+	const [view] = viewState
+	const pageId = pages.items[view.pageIndex].id
 
 	const categoryState = React.useState<Category[]>(defaultCategories)
 	const [enabledCategories] = categoryState
@@ -55,14 +58,11 @@ function App() {
 					value={{ activeAnnotations, setActiveAnnotations }}
 				>
 					<div className="window-content">
-						<Viewer
-							pageIndexState={pageIndexState}
-							annotations={filteredAnnotations}
-						/>
+						<Viewer viewState={viewState} annotations={filteredAnnotations} />
 						<Panels
+							viewState={viewState}
 							annotations={filteredAnnotations}
 							pageId={pageId}
-							layerState={layerState}
 							categoryState={categoryState}
 						/>
 					</div>

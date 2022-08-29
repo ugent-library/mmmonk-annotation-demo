@@ -4,14 +4,16 @@ import { useAnnotations } from "../hooks/useAnnotations"
 import PageNav from "./PageNav"
 
 type ViewerProps = {
-	pageIndexState: PageIndexState
+	viewState: ViewState
 	annotations: HydratedAnnotation[]
 }
 
-function Viewer({ pageIndexState, annotations }: ViewerProps) {
-	const [pageIndex] = pageIndexState
-	const page = pages.items[pageIndex]
-	const { src } = page.body
+function Viewer({ viewState, annotations }: ViewerProps) {
+	const [view] = viewState
+	const page = pages.items[view.pageIndex]
+	const src = page.body.items
+		? page.body.items[view.layerIndex].src
+		: page.body.src
 
 	return (
 		<div className="viewport">
@@ -26,7 +28,7 @@ function Viewer({ pageIndexState, annotations }: ViewerProps) {
 				<image width="100%" height="100%" href={src} />
 				<Targets annotations={annotations} />
 			</svg>
-			<PageNav pageIndexState={pageIndexState} />
+			<PageNav viewState={viewState} />
 		</div>
 	)
 }

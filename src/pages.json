@@ -3,12 +3,31 @@
 		{
 			"id": "folio-1",
 			"body": {
-				"src": "liber-floridus-1.jpg"
+				"type": "Choice",
+				"items": [
+					{
+						"id": "folio-1-natural",
+						"type": "Image",
+						"src": "liber-floridus-1.jpg",
+						"label": {
+							"en": ["Natural light"]
+						}
+					},
+					{
+						"id": "folio-1-infrared",
+						"type": "Image",
+						"src": "liber-floridus-1-infrared.jpg",
+						"label": {
+							"en": ["Infrared"]
+						}
+					}
+				]
 			}
 		},
 		{
 			"id": "folio-2",
 			"body": {
+				"type": "Image",
 				"src": "liber-floridus-2.jpg"
 			}
 		}

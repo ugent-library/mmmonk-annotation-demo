@@ -12,20 +12,20 @@ import AccordionDetails from "@material-ui/core/AccordionDetails"
 type MainPanelProps = {
 	annotations: HydratedAnnotation[]
 	pageId: string
-	layerState: LayerState
 	categoryState: CategoryState
+	viewState: ViewState
 }
 
 function MainPanel({
 	annotations,
 	pageId,
-	layerState,
 	categoryState,
+	viewState,
 }: MainPanelProps) {
 	return (
 		<>
 			<Section heading="Layers" closedByDefault>
-				<LayerList layerState={layerState} />
+				<LayerList viewState={viewState} />
 			</Section>
 			<Section heading="Categories">
 				<CategoryList pageId={pageId} categoryState={categoryState} />

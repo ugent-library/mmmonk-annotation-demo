@@ -30,6 +30,12 @@ function useAnnotations() {
 		})
 	}
 
+	function closeAllExceptPinnedAnnotations(): void {
+		setActiveAnnotations(prev => {
+			return prev.filter(annotation => annotation.pinned)
+		})
+	}
+
 	function togglePinAnnotation(id: string): void {
 		const current = activeAnnotations.find(annotation => annotation.id === id)
 		const isPinned = current?.pinned
@@ -46,6 +52,7 @@ function useAnnotations() {
 		activeAnnotations,
 		activateAnnotation,
 		closeAnnotation,
+		closeAllExceptPinnedAnnotations,
 		togglePinAnnotation,
 	}
 }

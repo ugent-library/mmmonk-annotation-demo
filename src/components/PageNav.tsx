@@ -1,4 +1,5 @@
 import { SvgIcon, IconButton, Typography } from "@material-ui/core"
+import { useAnnotations } from "../hooks/useAnnotations"
 import pages from "../pages.json"
 
 const total = pages.items.length
@@ -9,10 +10,13 @@ type PageNavProps = {
 
 function PageNav({ pageIndexState }: PageNavProps) {
 	const [pageIndex, setPageIndex] = pageIndexState
+	const { closeAllExceptPinnedAnnotations } = useAnnotations()
 	function next() {
+		closeAllExceptPinnedAnnotations()
 		if (pageIndex + 1 < total) setPageIndex(prev => prev + 1)
 	}
 	function prev() {
+		closeAllExceptPinnedAnnotations()
 		if (pageIndex > 0) setPageIndex(prev => prev - 1)
 	}
 	return (

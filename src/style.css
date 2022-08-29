@@ -60,13 +60,62 @@
 	color: var(--color-muted);
 }
 
-.anno-card-closed {
-	border-left: 2px solid transparent !important;
+.anno-cards {
+	list-style: none;
+	padding-inline: 0;
+	padding-block: 0.5rem;
+	margin: 0;
 }
 
-.anno-card-open {
-	background-color: var(--color-focus) !important;
-	border-left: 2px solid #1967d2 !important;
+.anno-card {
+	all: unset;
+	--card-bg: white;
+	background-color: var(--card-bg);
+	box-sizing: border-box;
+	width: 100%;
+	display: flex;
+	padding-block: 0.5rem;
+	padding-inline: 1rem;
+	cursor: pointer;
+}
+
+.anno-card:hover {
+	--card-bg: #f7f7f7;
+}
+
+.anno-card-closed {
+	border-left: 2px solid transparent;
+}
+
+.anno-card-open,
+.anno-card-open:hover {
+	--card-bg: var(--color-focus);
+	border-left: 2px solid #1967d2;
+}
+
+.anno-card .format-html h1 {
+	font-weight: 400;
+	font-size: 1rem;
+}
+
+.anno-card .format-html p {
+	margin: 0;
+}
+
+.anno-card main {
+	max-height: 10rem;
+	overflow: hidden;
+	position: relative;
+}
+
+.anno-card main:before {
+	content: "";
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	background: linear-gradient(transparent 2rem, var(--card-bg) 10rem);
 }
 
 .anno-panel-article {
@@ -98,6 +147,12 @@
 .anno-panel-top {
 	padding: 1rem;
 	padding-top: 0.25rem;
+}
+
+.anno-panel .format-html h1 {
+	font-weight: 400;
+	font-size: 2rem;
+	margin-bottom: 4rem;
 }
 
 .color-muted {
@@ -173,34 +228,3 @@
 .anno-top-meta p {
 	font-size: 0.8rem;
 }
-
-.anno-card .format-html h1 {
-	font-weight: 400;
-	font-size: 1rem;
-}
-
-.anno-card .format-html p {
-	margin: 0;
-}
-
-.anno-panel .format-html h1 {
-	font-weight: 400;
-	font-size: 2rem;
-	margin-bottom: 4rem;
-}
-
-.anno-card main {
-	max-height: 10rem;
-	overflow: hidden;
-	position: relative;
-}
-
-/* .anno-card main:before {
-	content: "";
-	width: 100%;
-	height: 100%;
-	position: absolute;
-	left: 0;
-	top: 0;
-	background: linear-gradient(transparent 2rem, white 10rem);
-} */

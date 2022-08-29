@@ -23,11 +23,11 @@ function AnnotationList({
 				?.enabled
 	)
 	return (
-		<List>
+		<ul className="anno-cards">
 			{filteredAnnotations.map((annotation, i) => (
 				<AnnotationItem annotation={annotation} key={annotation.id} />
 			))}
-		</List>
+		</ul>
 	)
 }
 export default AnnotationList
@@ -37,54 +37,55 @@ function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 	const isOpen = activeAnnotations.find(anno => anno.id === annotation.id)
 	return (
 		<>
-			<ListItem
-				button
-				onClick={() => activateAnnotation(annotation.id)}
-				className={
-					isOpen ? "anno-card anno-card-open" : "anno-card anno-card-closed"
-				}
-			>
-				<article>
-					<Grid container direction="column" spacing={1}>
-						<Grid item>
-							<header>
-								<Grid container spacing={1} alignItems="center">
-									<Grid item>
-										<SvgIcon
-											component={annotation.category.icon}
-											fontSize="inherit"
-											className="anno-icon"
-										/>
+			<li>
+				<button
+					onClick={() => activateAnnotation(annotation.id)}
+					className={
+						isOpen ? "anno-card anno-card-open" : "anno-card anno-card-closed"
+					}
+				>
+					<article>
+						<Grid container direction="column" spacing={1}>
+							<Grid item>
+								<header>
+									<Grid container spacing={1} alignItems="center">
+										<Grid item>
+											<SvgIcon
+												component={annotation.category.icon}
+												fontSize="inherit"
+												className="anno-icon"
+											/>
+										</Grid>
+										<Grid item>
+											<Typography variant="overline" className="anno-overline">
+												{annotation.category.name}
+											</Typography>
+										</Grid>
 									</Grid>
-									<Grid item>
-										<Typography variant="overline" className="anno-overline">
-											{annotation.category.name}
-										</Typography>
-									</Grid>
-								</Grid>
-							</header>
+								</header>
+							</Grid>
+							<Grid item>
+								<main>
+									<AnnotationBody body={annotation.body} />
+								</main>
+							</Grid>
+							<Grid item>
+								<footer>
+									<Typography
+										variant="body2"
+										style={{
+											color: "var(--color-muted)",
+											fontSize: 12,
+										}}
+									>
+										{isOpen ? "Opened" : "View details"}
+									</Typography>
+								</footer>
+							</Grid>
 						</Grid>
-						<Grid item>
-							<main>
-								<AnnotationBody body={annotation.body} />
-							</main>
-						</Grid>
-						<Grid item>
-							<footer>
-								<Typography
-									variant="body2"
-									style={{
-										color: "var(--color-muted)",
-										fontSize: 12,
-									}}
-								>
-									{isOpen ? "Opened" : "View details"}
-								</Typography>
-							</footer>
-						</Grid>
-					</Grid>
-				</article>
-			</ListItem>
+					</article>
+				</button>
+			</li>
 			<Divider />
 		</>
 	)

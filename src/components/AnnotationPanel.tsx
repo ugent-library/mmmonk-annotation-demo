@@ -77,7 +77,7 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 									onClick={() => closeAnnotation(annotation.id)}
 									aria-label="Close this annotation"
 								>
-									<CloseIcon fontSize="inherit" />
+									<CloseIcon />
 								</IconButton>
 							</nav>
 						</Grid>

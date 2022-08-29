@@ -7,6 +7,7 @@
 	--app-padding: 6px;
 	--color-selector-rgb: 255, 245, 0;
 	--color-muted: rgba(0, 0, 0, 0.4);
+	--color-main: #1967d2;
 	--color-focus: #e8f0ff;
 	--window-background: #000;
 	box-sizing: border-box;
@@ -26,7 +27,7 @@
 }
 
 .top-toolbar {
-	border-top: 2px solid #1967d2;
+	border-top: 2px solid var(--color-main);
 	background-color: #fff;
 }
 
@@ -90,7 +91,7 @@
 .anno-card-open,
 .anno-card-open:hover {
 	--card-bg: var(--color-focus);
-	border-left: 2px solid #1967d2;
+	border-left: 2px solid var(--color-main);
 }
 
 .anno-card .format-html h1 {
@@ -208,6 +209,14 @@
 	font-weight: 400;
 	line-height: 1.5;
 	letter-spacing: 0.00938em;
+}
+
+.format-html img {
+	max-width: 100%;
+}
+
+.format-html a {
+	color: var(--color-main);
 }
 
 .format-plain p {

@@ -122,7 +122,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Ultramarijn</h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p>"
+				"value": "<h1>Ultramarijn</h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><img src=\"ultramarine.jpg\" /><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -148,7 +148,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Groenmengeling</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p>"
+				"value": "<h1>Groenmengeling</h1><p>The pigment responsible for the green colour could not been identified with Raman or <a href=\"https://en.wikipedia.org/wiki/X-ray_fluorescence\">XRF spectroscopy</a>. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {

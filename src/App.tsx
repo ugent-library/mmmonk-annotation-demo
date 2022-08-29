@@ -3,6 +3,7 @@ import Paper from "@material-ui/core/Paper"
 import AppBar from "@material-ui/core/AppBar"
 import Toolbar from "@material-ui/core/Toolbar"
 import Typography from "@material-ui/core/Typography"
+import { createTheme, ThemeProvider } from "@material-ui/core"
 import { categoryModel } from "./config"
 import { hydratedAnnotations } from "./data"
 import pages from "./pages.json"
@@ -26,6 +27,14 @@ const defaultView = {
 	pageIndex: 0,
 	layerIndex: 0,
 }
+
+const theme = createTheme({
+	palette: {
+		primary: {
+			main: "#1976d2",
+		},
+	},
+})
 
 function App() {
 	const [activeAnnotations, setActiveAnnotations] =
@@ -59,12 +68,14 @@ function App() {
 				>
 					<div className="window-content">
 						<Viewer viewState={viewState} annotations={filteredAnnotations} />
-						<Panels
-							viewState={viewState}
-							annotations={filteredAnnotations}
-							pageId={pageId}
-							categoryState={categoryState}
-						/>
+						<ThemeProvider theme={theme}>
+							<Panels
+								viewState={viewState}
+								annotations={filteredAnnotations}
+								pageId={pageId}
+								categoryState={categoryState}
+							/>
+						</ThemeProvider>
 					</div>
 				</AnnotationContext.Provider>
 			</Paper>

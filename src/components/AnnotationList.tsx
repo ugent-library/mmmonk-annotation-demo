@@ -1,11 +1,4 @@
-import {
-	Grid,
-	List,
-	ListItem,
-	Typography,
-	Divider,
-	SvgIcon,
-} from "@material-ui/core"
+import { Grid, Typography, Divider, SvgIcon } from "@material-ui/core"
 import AnnotationBody from "../components/AnnotationBody"
 import { useAnnotations } from "../hooks/useAnnotations"
 

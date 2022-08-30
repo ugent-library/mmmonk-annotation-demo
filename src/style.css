@@ -119,6 +119,10 @@
 	background: linear-gradient(transparent 2rem, var(--card-bg) 10rem);
 }
 
+.anno-card section[role="doc-bibliography"] {
+	display: none;
+}
+
 .anno-panel-article {
 	display: flex;
 	row-gap: 1rem;
@@ -154,6 +158,21 @@
 	font-weight: 400;
 	font-size: 2rem;
 	margin-bottom: 4rem;
+}
+
+.anno-panel section[role="doc-bibliography"] {
+	border-top: 1px solid var(--color-muted);
+	margin-top: 4rem;
+	padding-top: 0.5rem;
+}
+
+.anno-panel section[role="doc-bibliography"] h1 {
+	font-size: 1rem;
+	margin: 0;
+}
+
+.anno-panel section[role="doc-bibliography"] p {
+	font-size: 0.9rem;
 }
 
 .color-muted {

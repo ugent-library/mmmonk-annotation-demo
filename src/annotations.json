@@ -17,14 +17,14 @@
 			"body": {
 				"type": "TextualBody",
 				"language": "nl",
-				"format": "text/plain",
-				"value": "Architecturaal/decoratief kader rond Lambertus en tekst"
+				"format": "text/html",
+				"value": "<p>Architectural/decorative frame around Lambertus and text</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "John Doe"
+				"name": "Katrien Deroo"
 			}
 		},
 		{
@@ -43,14 +43,14 @@
 			"body": {
 				"type": "TextualBody",
 				"language": "nl",
-				"format": "text/plain",
-				"value": "Monnik (Lambertus van St-Omaars)"
+				"format": "text/html",
+				"value": "<p>Monk (Lambertus of St-Omaars)</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "Jane Doe"
+				"name": "Katrien Deroo"
 			}
 		},
 		{
@@ -69,14 +69,14 @@
 			"body": {
 				"type": "TextualBody",
 				"language": "nl",
-				"format": "text/plain",
-				"value": "Stad St-Omaars"
+				"format": "text/html",
+				"value": "<p>City of St-Omaars</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "Jane Doe"
+				"name": "Katrien Deroo"
 			}
 		},
 		{
@@ -95,14 +95,14 @@
 			"body": {
 				"type": "TextualBody",
 				"language": "nl",
-				"format": "text/plain",
-				"value": "vaas van latere datum"
+				"format": "text/html",
+				"value": "<p>Vase added at a later date</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "Jane Doe"
+				"name": "Katrien Deroo"
 			}
 		},
 		{
@@ -122,13 +122,13 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Ultramarijn</h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><img src=\"ultramarine.jpg\" /><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "Jane Doe"
+				"name": "July Van Malderen"
 			}
 		},
 		{
@@ -148,13 +148,13 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Groenmengeling</h1><p>The pigment responsible for the green colour could not been identified with Raman or <a href=\"https://en.wikipedia.org/wiki/X-ray_fluorescence\">XRF spectroscopy</a>. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p>"
+				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "John Doe"
+				"name": "July Van Malderen"
 			}
 		},
 		{
@@ -174,18 +174,44 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Vermiljoen</h1><p>The <i>in situ Raman analysis</i> of the red pigment showed that vermilion (HgS) is used as red pigment.</p>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "Jane Doe"
+				"name": "July Van Malderen"
 			}
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-8",
+			"id": "anno-zz",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "material",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><ellipse cx=\"3160\" cy=\"1700\" rx=\"80\" ry=\"80\" /></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<h1><a href=\"https://medievalfragments.wordpress.com/2014/07/11/mark-their-words-medieval-bookmarks/\">Fore-edge bookmark</a></h1><p>A long piece of the parchment was cut in order to fold and loop the parchments piece through the cut in the page thereby making a stub of parchment stick out on the side."
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "July Van Malderen"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-b",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -193,20 +219,176 @@
 				"source": "folio-1",
 				"selector": {
 					"type": "SvgSelector",
-					"value": "<svg><path d=\"m536 393 1206 19v575L536 956V393Z\"/></svg>"
+					"value": "<svg><path d=\"M1884 396h241v-67h-241z\"/></svg>"
 				}
 			},
 			"body": {
 				"type": "TextualBody",
-				"language": "en",
-				"format": "text/plain",
-				"value": "Some text about transcriptions"
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Sithiu uilla</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
 				"id": "http://example.org/user1",
 				"type": "Person",
-				"name": "John Doe"
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-c",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"M2687 408h347v-90h-347z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Id est sancti Audomari castrum</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-d",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"M2493 1444h84v-76h-84z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>(Initial) Lambertus</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-e",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"M2745 2141h165v-766h-165z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Nomina p<i>re</i>lator<i>um</i> in Sithiu q<i>ui</i> rexer<i>um</i>t utrasq<i>ue</i> eccl<i>esi</i>as: Bertin<i>us</i>. Rigob<i>e</i>rt<i>us</i>. Erlefrid<i>us</i>. Erke<i>m</i>bod<i>us</i>. Waimar<i>us</i>. N<i>an</i>thari<i>us</i>. Dadh<i>er</i>t<i>us</i>. Hardrad<i>us</i>. Otland<i>us</i>. N<i>an</i>thari<i>us</i>. Fredegis<i>us</i>. Anno D<i>om</i>ini DCCCXXX. Req<i>ui</i>re supr<i>a</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-f",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"M536 1080h1209V968H536z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Gloriosvs Pontifex Avdomarvs</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-g",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"M2205 1815h223v-187h-223z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Anno MLII oste<i>n</i>dit archiep<i>iscopus </i>Wido <i>sanctum</i> Aud<i>omarum</i> po<i>pu</i>lo</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-h",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-1",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><path d=\"m1934 2148 10-768h386v183h-151l19 248 81 21v316h-345Z\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "nl",
+				"format": "text/html",
+				"value": "<p>Anno Do<i>mi</i>ni DCC\\c/XXX Fredegis<i>us</i> Sithiu p<i>re</i>fuit annis XIIII. Hugo abb<i>as</i> s<i>an</i>c<i>t</i>i Suintini annis XX. Adelard<i>us</i> a<i>nnis</i> XXII. Hugo an<i>nis</i> XXIII. Odo an<i>nis</i> XXIIII. Hildeuin<i>us</i> XXVII. Aluuin<i>us</i> a<i>nnis</i> VIII/I\\. Lotmar<i>us</i> XXI/I\\. Helecin<i>us</i> XXX/I\\. Ebroin<i>us</i> XIII/I\\. Balduin<i>us</i> XIIII. Frumold<i>us</i> VIII. Folcard<i>us</i> IX. Roger<i>us</i> II. Bald<i>uinus</i> Ariensis an<i>nis</i> III. Arnulfus annis XLIIII. Otger<i>us</i> annis.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Evelien Hauwaerts"
 			}
 		},
 		{

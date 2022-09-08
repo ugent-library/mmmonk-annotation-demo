@@ -119,10 +119,6 @@
 	background: linear-gradient(transparent 2rem, var(--card-bg) 10rem);
 }
 
-.anno-card section[role="doc-bibliography"] {
-	display: none;
-}
-
 .anno-panel-article {
 	display: flex;
 	row-gap: 1rem;

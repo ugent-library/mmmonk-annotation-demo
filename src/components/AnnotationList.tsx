@@ -59,7 +59,7 @@ function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 							</Grid>
 							<Grid item>
 								<main>
-									<AnnotationBody body={annotation.body} />
+									<AnnotationBody body={annotation.body} preview />
 								</main>
 							</Grid>
 							<Grid item>

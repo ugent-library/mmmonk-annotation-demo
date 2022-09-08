@@ -8,7 +8,7 @@
 					{
 						"id": "folio-1-natural",
 						"type": "Image",
-						"src": "liber-floridus-1.jpg",
+						"src": "6v-13r.jpg",
 						"label": {
 							"en": ["Natural light"]
 						}
@@ -16,7 +16,7 @@
 					{
 						"id": "folio-1-infrared",
 						"type": "Image",
-						"src": "liber-floridus-1-infrared.jpg",
+						"src": "6v-13r-infrared.jpg",
 						"label": {
 							"en": ["Infrared"]
 						}

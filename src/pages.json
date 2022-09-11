@@ -25,10 +25,17 @@
 			}
 		},
 		{
-			"id": "folio-3",
+			"id": "folio-2",
 			"body": {
 				"type": "Image",
 				"src": "61v-62r.jpg"
+			}
+		},
+		{
+			"id": "folio-3",
+			"body": {
+				"type": "Image",
+				"src": "92v-93r.jpg"
 			}
 		}
 	]

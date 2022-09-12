@@ -9,6 +9,8 @@
 						"id": "folio-1-natural",
 						"type": "Image",
 						"src": "6v-13r.jpg",
+						"height": 2760,
+						"width": 3999,
 						"label": {
 							"en": ["Natural light"]
 						}
@@ -17,6 +19,8 @@
 						"id": "folio-1-infrared",
 						"type": "Image",
 						"src": "6v-13r-infrared.jpg",
+						"height": 2760,
+						"width": 3999,
 						"label": {
 							"en": ["Infrared"]
 						}
@@ -28,14 +32,18 @@
 			"id": "folio-2",
 			"body": {
 				"type": "Image",
-				"src": "61v-62r.jpg"
+				"src": "61v-62r.jpg",
+				"height": 2760,
+				"width": 4000
 			}
 		},
 		{
 			"id": "folio-3",
 			"body": {
 				"type": "Image",
-				"src": "92v-93r.jpg"
+				"src": "92v-93r.jpg",
+				"height": 3246,
+				"width": 4000
 			}
 		}
 	]

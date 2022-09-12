@@ -11,9 +11,9 @@ type ViewerProps = {
 function Viewer({ viewState, annotations }: ViewerProps) {
 	const [view] = viewState
 	const page = pages.items[view.pageIndex]
-	const src = page.body.items
-		? page.body.items[view.layerIndex].src
-		: page.body.src
+	const { src, width, height } = page.body.items
+		? page.body.items[view.layerIndex]
+		: page.body
 
 	return (
 		<div className="viewport">
@@ -21,7 +21,7 @@ function Viewer({ viewState, annotations }: ViewerProps) {
 				version="1.1"
 				width="100%"
 				height="100%"
-				viewBox="0 0 3999 2760"
+				viewBox={`0 0 ${width} ${height}`}
 				xmlns="http://www.w3.org/2000/svg"
 				className="canvas"
 			>

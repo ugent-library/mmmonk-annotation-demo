@@ -866,7 +866,7 @@
 			"motivation": "commenting",
 			"category": "iconography",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1980 433c562 0 1194 451 1194 1213 0 669-525 1212-1194 1212-596 0-1139-599-1139-1212 0-703 485-1213 1139-1213Zm6 311c-485 0-844 378-844 899 0 433 410 898 844 898 496 0 878-403 878-898 0-565-462-899-878-899Z\"/></svg>"
@@ -892,7 +892,7 @@
 			"motivation": "commenting",
 			"category": "material",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2348 904h1054v2034H649V904h948l19 2 46-2h182l41 2c51 3 41 18 93 20l370-22Z\"/></svg>"
@@ -918,7 +918,7 @@
 			"motivation": "commenting",
 			"category": "material",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M0 0h26v396H0z\" transform=\"matrix(3.67547 0 0 -5.13437 3305 2938)\"/></svg>"
@@ -944,7 +944,7 @@
 			"motivation": "commenting",
 			"category": "material",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M929 845c151-333 568-578 1028-581 12 0 23 14 26 14 4 0 6-6 10-6 200-8 556 72 761 247 75 64 178 183 242 275 17 23 39 55 65 69l-1083 63c-52-2-42-17-93-20-90-4-171-4-269 0-240-21-485-36-687-61Z\"/></svg>"
@@ -970,7 +970,7 @@
 			"motivation": "commenting",
 			"category": "iconography",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M8346 392c-6 19-5 46-5 50 0 6 6 9 9 18 3 8-9 4-7 13 1 10 8 10 10 18 2 9-9 9-9 18 1 9 10 13 12 21 2 9-13 17-11 25 2 9 15 14 17 24 1 11-9 22-9 22 0 12 14 15 14 27 0 13-14 11-14 24 0 14 14 7 14 19 0 11-11 11-11 20s17 11 17 24-14 16-14 25 19 15 20 27c2 11-17 17-17 27s21 18 21 31-7 14-4 28c4 15 9 16 9 32 0 17-9 11-9 28s15 13 15 28c0 14-6 18-6 33s15 25 15 37c0 11-11 22-11 31s18 44 18 49c0 6-7 17-7 24s13 29 13 38c0 10-4 17-2 22 2 4-4 19-7 25-3 5 1 16 3 20a475 475 0 0 1-324-422c0-193 104-345 260-406Z\" transform=\"matrix(2.01383 0 0 2.06128 -15142 -3)\"/></svg>"
@@ -996,7 +996,7 @@
 			"motivation": "commenting",
 			"category": "iconography",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M8658 391a428 428 0 0 1 283 407c0 179-105 333-259 400-2-8-4-19-9-26-7-11-4-20-8-28-3-9 1-14 0-25 0-10-4-7-5-17-2-10 5-5 5-16 1-11-5-15-7-24-2-8 5-12 5-18-1-6-3-3-5-12-3-10 1-5 0-15-2-10-4-2-5-13-2-11 4-11 5-21 0-11-7-4-8-16-1-11 6-8 8-20 1-11-7-9-8-21 0-11 5-11 4-22 0-11-8-10-10-20-1-11 9-12 10-23 1-10-11-10-13-19-1-9 9-16 9-31 0-14-9-12-10-24-1-11 10-24 10-38 0-13-10-10-10-24 1-15 9-18 9-28 1-10-12-9-12-24 0-14 10-17 10-33 0-17-14-26-15-33s12-25 12-35c0-9-6-12-7-21-2-10 6-19 7-31 2-12-6-21-7-31-2-10 13-24 13-37 0-12-13-11-13-22-1-11 20-13 21-23v-16Z\" transform=\"matrix(2.01383 0 0 2.06128 -15142 -3)\"/></svg>"
@@ -1022,7 +1022,7 @@
 			"motivation": "commenting",
 			"category": "iconography",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1666 805a854 854 0 0 1 628-2c1 10-1 22-1 34-1 19-43 24-42 47s27 20 27 46c-1 25-30 55-27 75 2 20 19 39 15 64-3 25-18 44-15 63 2 20 15 25 15 45s-26 57-24 72c1 14 29 33 29 67s-21 39-20 69c0 30 26 28 25 48-1 21-18 27-18 58 0 30 19 23 20 51 0 28-23 55-21 78 2 24 21 20 21 50-1 29-21 43-18 62s27 19 25 41c-1 22-22 23-19 46 4 22 20 19 20 42 1 22-10 21-8 46 1 24 18 20 15 43s-18 18-15 41c2 24 15 10 15 32-1 22-13 20-10 43s7 6 10 27c2 21-5 11 0 31 5 19 9 13 10 25 1 13-15 20-10 38 4 18 17 25 15 48-1 23-14 14-11 34 3 21 10 13 11 35 2 22-7 33 0 51 8 18 1 35 16 58 9 14 15 38 17 53a870 870 0 0 1-355 75c-65 0-129-10-192-30-3-7-13-30-6-41 7-12 19-43 15-52s4-24 4-43-27-65-27-79 14-38 14-49c0-12-37-84-37-102 0-17 23-41 23-65 0-23-31-45-31-75s13-39 13-69-30-22-30-57c0-34 17-23 17-57s-9-36-17-66c-7-29 8-32 8-58s-42-43-42-64 37-32 34-57c-2-24-41-35-41-54s29-25 29-52-35-30-35-49c0-18 22-18 22-42s-27-10-27-38 27-24 27-49c0-26-27-33-27-56 0 0 19-24 17-45-3-21-30-33-33-50-4-18 25-34 21-52-3-17-22-26-23-43-1-18 21-18 18-37-4-18-19-18-22-37-2-20 21-10 15-28s-18-25-18-36c0-9-2-65 11-104Z\"/></svg>"
@@ -1048,7 +1048,7 @@
 			"motivation": "commenting",
 			"category": "iconography",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m1963 445-307 414 313 1501 31 501 13 60 307-425c-194-817-314-1503-357-2051Z\"/></svg>"
@@ -1074,7 +1074,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M3053 913h213l30 1893-824 53s777-342 777-1170c0-368-71-521-196-776Z\"/></svg>"
@@ -1100,7 +1100,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M802 2427h233c94 131 200 229 377 336H802v-336Z\"/></svg>"
@@ -1126,7 +1126,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1771 1385c-3 13-16 21-16 36s22 33 22 55-15 19-15 42c0 22 28 45 28 61 0 17-14 33-14 55 0 21 25 41 25 64s-17 37-17 59 21 33 21 60-15 25-15 60c0 36 24 43 24 62s-11 33-11 58 24 63 24 80c0 16-21 47-21 77 0 31 29 55 29 71l3 72c0 10 25 38 25 56 0 17-9 28-9 51 0 24 9 21 9 43 0 21-9 19-9 39s6 41 6 41l31 7s-10-36-10-51c0-16 4-17 4-35 0-17-9-25-9-46 0-20 9-27 9-48s-25-45-25-59l1-71c0-9-26-40-26-78 0-39 22-43 22-66s-28-49-28-82 11-28 11-51-20-33-20-65c0-33 12-38 12-66 0-27-17-28-17-59s14-33 14-51-24-50-24-81 6-16 6-48c0-31-22-47-22-66 0-18 8-43-9-72-6-10-2-24-2-24l-7-30Z\"/></svg>"
@@ -1152,7 +1152,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1806 2286c1-10 6-24 6-33 0-33-36-78-36-101s24-46 24-71-28-46-28-71c0-26 19-48 19-68 0-19-29-37-29-65s15-32 15-54c0-23-24-38-24-67s18-46 18-65-25-27-25-57c0-31 14-33 14-56 0-24-24-31-24-53s19-30 19-51-22-29-22-46c0-16 10-29 10-47s-18-21-18-45c0-23 9-17 9-43 0-25-15-31-22-36-8-5-8-20-8-20h-24c0 18 27 30 27 56 0 25-27 21-27 49s27 14 27 38-22 24-22 42c0 19 35 22 35 49s-29 33-29 52 39 30 41 54c3 25-34 36-34 57s42 38 42 64-15 29-8 58c8 30 17 32 17 66s-17 23-17 57c0 35 30 27 30 57s-13 39-13 69 31 52 31 75c0 24-23 48-23 65 0 18 37 90 37 102 0 11-14 35-14 49s27 60 27 79-8 34-4 43-8 40-15 52c-8 13 7 43 7 43l18 5s11-14 12-28c1-11-7-21-5-30 5-20 12-14 12-25 0-14-9-26-8-35 1-15 11-23 11-33 0-15-31-52-29-81Z\"/></svg>"
@@ -1178,7 +1178,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1446 962c-3-62-23-122-58-173l-13 9c33 48 52 105 55 164h16Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1204,7 +1204,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m1388 789-14-19-13-2c-34-35-65-68-102-87l-10 13c32 17 63 43 95 76l10 2s11 8 21 26l13-9Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1230,7 +1230,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1259 681c-48-24-108-44-171-41l3 15c62-3 113 16 158 39l10-13Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1256,7 +1256,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m1609 432 14 56c107-33 222-50 335-53l-11-55c-117 2-231 19-338 52Z\"/></svg>"
@@ -1282,7 +1282,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1609 432c-86 28-176 65-253 126l29 46c70-51 151-89 238-116l-14-56Z\"/></svg>"
@@ -1308,7 +1308,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M923 688c-45 28-85 69-113 115l14 8c25-42 65-84 108-111l-9-12Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1334,7 +1334,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M810 803c-32 53-46 115-46 177h16c0-58 14-119 44-169l-14-8Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1360,7 +1360,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M764 980c0 62 17 119 49 172l14-8c-30-50-47-106-47-164h-16Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1386,7 +1386,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M813 1152c31 54 79 98 134 127l8-14c-52-28-98-72-128-121l-14 8Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1412,7 +1412,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M947 1279c47 26 98 42 152 43l1-15c-51-1-100-19-145-42l-8 14Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1438,7 +1438,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2356 2805c-124 42-255 67-367 65l-1 53c143 0 271-23 388-62l-20-56Z\"/></svg>"
@@ -1464,7 +1464,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m2356 2805 20 56c81-26 191-74 258-120l-29-50c-74 44-160 83-249 114Z\"/></svg>"
@@ -1490,7 +1490,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1279 1275c56-32 96-79 126-135l-13-8c-28 53-69 99-121 129l8 14Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1516,7 +1516,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1405 1140c27-49 44-128 41-178h-16c3 57-14 124-38 170l13 8Z\" transform=\"matrix(3.59353 0 0 3.71927 -1963 -2000)\"/></svg>"
@@ -1542,7 +1542,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M751 1062h121V942H751z\"/></svg>"
@@ -1568,7 +1568,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1253 541h94v-79h-94z\"/></svg>"
@@ -1594,7 +1594,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1885 352h100V252h-100z\"/></svg>"
@@ -1620,7 +1620,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2554 499h94v-94h-94z\"/></svg>"
@@ -1646,7 +1646,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M3036 958h94v-99h-94z\"/></svg>"
@@ -1672,7 +1672,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M3249 1634h79v-95h-79z\"/></svg>"
@@ -1698,7 +1698,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M3109 2318h68v-78h-68z\"/></svg>"
@@ -1724,7 +1724,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2617 2845h78v-79h-78z\"/></svg>"
@@ -1750,7 +1750,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1361 2859h99v-89h-99z\"/></svg>"
@@ -1776,7 +1776,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M856 2360h79v-89h-79z\"/></svg>"
@@ -1802,7 +1802,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M680 1689h100v-68H680z\"/></svg>"
@@ -1828,7 +1828,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M864 998h63v-68h-63z\"/></svg>"
@@ -1854,7 +1854,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2404 2436c37-5 45 12 19 37-26 26-77 51-113 56s-45-11-18-37c26-25 76-50 112-56Z\"/><path d=\"M1563 811c36-8 45 8 21 35-24 28-72 57-108 65s-45-8-21-35c24-28 72-57 108-65Z\"/></svg>"
@@ -1880,7 +1880,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2427 2487c51-13 60 4 18 38-41 33-117 71-169 83-52 13-60-4-18-37 41-34 117-71 169-84Z\"/><path d=\"M1606 717c35-7 46 10 22 39-23 28-71 56-107 63-35 7-46-10-23-38 24-28 72-57 108-64Z\"/></svg>"
@@ -1906,7 +1906,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2391 2569c39-4 47 13 17 38-29 26-84 50-123 54-38 4-46-13-16-39 29-25 84-49 122-53Z\"/><path d=\"M1739 630c35 2 39 18 9 36-29 19-82 32-116 30-35-2-39-18-10-37 30-18 82-31 117-29Z\"/></svg>"
@@ -1932,7 +1932,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2266 2663c30 3 35 21 12 40-23 20-66 32-96 29s-35-21-12-40 66-32 96-29Z\"/><path d=\"M1733 578c35 2 39 18 10 36-30 19-82 32-117 30s-39-18-9-37c29-18 81-31 116-29Z\"/></svg>"
@@ -1958,7 +1958,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2246 2733c38 3 42 21 10 41-33 20-91 34-129 31-39-2-43-20-10-40s90-35 129-32Z\"/><path d=\"M1781 513c48-2 52 13 9 34s-117 39-164 41c-48 3-52-12-9-33s117-40 164-42Z\"/></svg>"
@@ -1984,7 +1984,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2266 2783c52-1 57 18 10 41-46 23-125 43-177 43-52 1-57-17-10-40 46-24 126-43 177-44Z\"/><path d=\"M1815 447c65-4 69 14 10 40-59 27-160 53-225 58-65 4-70-14-10-41 59-26 160-52 225-57Z\"/></svg>"
@@ -2010,7 +2010,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1305 1519c50 74 71 204 47 291-24 86-84 96-134 21-50-74-71-204-47-291 24-86 84-96 134-21Z\"/></svg>"
@@ -2036,7 +2036,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1598 945c30 7 39 33 20 57a97 97 0 0 1-90 32c-30-7-39-33-20-57 19-25 59-39 90-32Z\"/></svg>"
@@ -2062,7 +2062,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1518 1244c22 13 22 35 0 48a84 84 0 0 1-79 0c-22-13-22-35 0-48 22-14 57-14 79 0Z\"/></svg>"
@@ -2088,7 +2088,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1654 997c42-2 56 24 32 59-23 34-77 64-119 66s-56-24-33-59c24-34 78-64 120-66Z\"/></svg>"
@@ -2114,7 +2114,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1462 1051c52 1 73 38 47 84-25 45-88 81-141 80-52-1-73-39-47-84 25-46 89-81 141-80Z\"/></svg>"
@@ -2140,7 +2140,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2787 1442c31 69 31 180 0 249-30 69-80 69-110 0-31-69-31-180 0-249 30-69 80-69 110 0Z\"/></svg>"
@@ -2166,7 +2166,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1608 1331c82 16 99 74 37 130-61 56-178 89-260 74-82-16-98-74-37-130 62-56 178-89 260-74Z\"/></svg>"
@@ -2192,7 +2192,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1447 1558c32 7 37 29 10 48-26 20-74 30-107 23-32-7-36-28-10-48 27-19 74-30 107-23Z\"/></svg>"
@@ -2218,7 +2218,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1691 1659c26 18 26 48 0 67a85 85 0 0 1-93 0c-26-19-26-49 0-67 26-19 68-19 93 0Z\"/></svg>"
@@ -2244,7 +2244,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1703 1805c23 14 23 38 0 52a87 87 0 0 1-83 0c-23-14-23-38 0-52s60-14 83 0Z\"/></svg>"
@@ -2270,7 +2270,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1598 1535c16 17 16 44 0 61a40 40 0 0 1-59 0 44 44 0 0 1 0-61c17-17 43-17 59 0Z\"/></svg>"
@@ -2296,7 +2296,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1504 1746c40 17 52 60 25 95-27 36-82 50-122 32-41-17-52-60-25-95 26-35 81-50 122-32Z\"/></svg>"
@@ -2322,7 +2322,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1575 2137c31 20 31 51 0 71-32 20-83 20-115 0-31-20-31-51 0-71 32-20 83-20 115 0Z\"/></svg>"
@@ -2348,7 +2348,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1667 2314c19 15 19 38 0 52a63 63 0 0 1-71 0c-19-14-19-37 0-52 20-14 52-14 71 0Z\"/></svg>"
@@ -2374,7 +2374,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1788 2373c18 18 18 48 0 66a49 49 0 0 1-68 0 46 46 0 0 1 0-66c18-18 49-18 68 0Z\"/></svg>"
@@ -2400,7 +2400,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M1712 2155c27 0 48 23 48 49 0 27-21 48-48 47-27 0-48-23-48-49 0-27 21-48 48-47Z\"/></svg>"
@@ -2426,7 +2426,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2604 1380c68 61 68 159 0 219-67 60-177 60-244 0s-67-158 0-219c67-60 177-60 244 0Z\"/></svg>"
@@ -2452,7 +2452,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2215 995c45 24 45 62 0 86s-118 24-163 0-45-62 0-86 118-24 163 0Z\"/></svg>"
@@ -2478,7 +2478,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2417 1187a645 645 0 0 1 0 878 568 568 0 0 1-833 0 645 645 0 0 1 0-878 568 568 0 0 1 833 0Zm-61 57a492 492 0 0 0-726 0 571 571 0 0 0 0 772 492 492 0 0 0 726 0 571 571 0 0 0 0-772Z\"/></svg>"
@@ -2504,7 +2504,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"M2266 2319h83V871h-83z\"/></svg>"
@@ -2530,7 +2530,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m1543 1955 72-11-51-338-71 11z\"/></svg>"
@@ -2556,7 +2556,7 @@
 			"motivation": "commenting",
 			"category": "transcriptions",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><path d=\"m1904 471 53-8c124 936 256 1556 367 2030l-58 60c-94-504-309-1309-362-2082Z\"/></svg>"
@@ -2582,7 +2582,7 @@
 			"motivation": "commenting",
 			"category": "pigments",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><ellipse cx=\"1300\" cy=\"770\" rx=\"40\" ry=\"40\" /></svg>"
@@ -2608,7 +2608,7 @@
 			"motivation": "commenting",
 			"category": "pigments",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><ellipse cx=\"2150\" cy=\"1200\" rx=\"40\" ry=\"40\" /></svg>"
@@ -2634,7 +2634,7 @@
 			"motivation": "commenting",
 			"category": "pigments",
 			"target": {
-				"source": "folio-3",
+				"source": "folio-4",
 				"selector": {
 					"type": "SvgSelector",
 					"value": "<svg><ellipse cx=\"1900\" cy=\"1250\" rx=\"40\" ry=\"40\" /></svg>"

@@ -41,6 +41,15 @@
 			"id": "folio-3",
 			"body": {
 				"type": "Image",
+				"src": "88v-89r.jpg",
+				"height": 2760,
+				"width": 4000
+			}
+		},
+		{
+			"id": "folio-4",
+			"body": {
+				"type": "Image",
 				"src": "92v-93r.jpg",
 				"height": 3246,
 				"width": 4000

@@ -182,7 +182,8 @@
 }
 
 .canvas path,
-.canvas ellipse {
+.canvas ellipse,
+.canvas circle {
 	pointer-events: all;
 	transition: fill 0.15s;
 	fill: transparent;

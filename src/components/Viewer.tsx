@@ -65,7 +65,7 @@ function Target({ annotation }: TargetProps) {
 						<svg
 							{...props}
 							className={isActive ? "selector highlight" : "selector"}
-							onClick={() => activateAnnotation(annotation.id)}
+							onClick={() => !isActive && activateAnnotation(annotation.id)}
 						>
 							{domToReact(domNode.children)}
 						</svg>

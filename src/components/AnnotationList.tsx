@@ -27,14 +27,14 @@ export default AnnotationList
 
 function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 	const { activeAnnotations, activateAnnotation } = useAnnotations()
-	const isOpen = activeAnnotations.find(anno => anno.id === annotation.id)
+	const isActive = activeAnnotations.find(anno => anno.id === annotation.id)
 	return (
 		<>
 			<li>
 				<button
-					onClick={() => activateAnnotation(annotation.id)}
+					onClick={() => !isActive && activateAnnotation(annotation.id)}
 					className={
-						isOpen ? "anno-card anno-card-open" : "anno-card anno-card-closed"
+						isActive ? "anno-card anno-card-open" : "anno-card anno-card-closed"
 					}
 				>
 					<article>
@@ -71,7 +71,7 @@ function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 											fontSize: 12,
 										}}
 									>
-										{isOpen ? "Opened" : "View details"}
+										{isActive ? "Opened" : "View details"}
 									</Typography>
 								</footer>
 							</Grid>

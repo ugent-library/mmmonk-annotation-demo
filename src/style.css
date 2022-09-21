@@ -183,7 +183,8 @@
 
 .canvas path,
 .canvas ellipse,
-.canvas circle {
+.canvas circle,
+.canvas rect {
 	pointer-events: all;
 	transition: fill 0.15s;
 	fill: transparent;
@@ -195,12 +196,12 @@
 .selector.highlight path,
 .selector.highlight polygon,
 .selector.highlight circle,
-.selector.highlight rectangle,
+.selector.highlight rect,
 .selector.highlight ellipse,
 .selector:hover path,
 .selector:hover polygon,
 .selector:hover circle,
-.selector:hover rectangle,
+.selector:hover rect,
 .selector:hover ellipse {
 	fill: rgba(var(--color-selector-rgb), 0.3);
 	cursor: pointer;

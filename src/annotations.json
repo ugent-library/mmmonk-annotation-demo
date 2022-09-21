@@ -2990,6 +2990,526 @@
 				"type": "Person",
 				"name": "Evelien Hauwaerts"
 			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p14",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(1.90353 0 0 .65354 113 363)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>LXXVIIII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p15",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(6.66832 0 0 .58012 -6277 450)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>DE ORDINE ET POSITIONE SIGNORV<i>M.</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p16",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(3.66984 0 0 2.16562 -1949 611)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Helicę Arcturus Maior habet stellas in capite VII, in singulis humeris singulas, in armo I, in pectore I, in pede priori claras II, in su<i>m</i>ma caude I, in ue<i>n</i>tre clara<i>m</i> I, in crure posterior duas, in extremo pede II, in cauda III. Fiunt XXII.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p17",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(3.66984 0 0 2.27844 -1949 888)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Cęnosura Arctur<i>us</i> Minor h<i>abe</i>t stellas in uno latere IIII claras in q<i>ua</i>d \r/o positas, in cauda claras III. Sub his pol<i>us</i> appar<i>et</i>, circu<i>m</i> q<i>uo</i>d syd<i>us</i> tot<i>us</i> orbis uerti putatur. Serpens, qui inter Arcturos medius iacet, habet stellas in capite claras V et in toto corpore X.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p18",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(3.66984 0 0 1.6081 -1949 1134)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Hercules in capite I, in brachio I, in humeris sing<i>u</i>lis claras, in sinistro cubito I, in manu I, in utrisq<i>ue</i> ilib<i>us</i> I, in femore II, in pede I, sup<i>ra</i> dextra<i>m</i> manu<i>m</i> I, in pelle leonis IIII. Fiunt XVI.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p19",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(3.66984 0 0 2.09032 -1949 1362)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Serpentariu<i>s</i> in capite I, in sing<i>u</i>lis humeris <i>et</i> pedib<i>us</i> I, in sinistra manu III, in dextra IIII, in cubitis sing<i>u</i>lis <i>et</i> genib<i>us</i> sing<i>u</i>las, i<i>n</i> crure I. Fiunt XVII, om<i>ne</i>s clare. Serpens in ore II, in capite IIII, usc<i>ue</i> manu<i>m</i> se tenentis II, in flexu xorporis XV. Su<i>m</i>ma XXIII. </p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p20",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(2.15579 0 0 2.69669 -261 1765)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Boetes Artophilax h<i>abe</i>t stellas in dextera manu IIII, que n<i>on</i> óccid<i>un</i>t; i<i>n</i> capite I, in sing<i>u</i>lis humeris <i>et</i> mamillis sing<i>u</i>las, i<i>n</i> dextro cubito I, int<i>er</i> genua I, in singulis pedib<i>us</i> sing<i>u</i>las.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p21",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(1.26869 0 0 2.35274 576 2082)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Corona h<i>abe</i>t stellas VIII in orbe<i>m</i> positas, quaru<i>m</i> III clare co<i>n</i>tra cap<i>ut</i> Serpentis Septe<i>n</i>trionalis.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p22",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(.74005 0 0 1.76355 1096 1960)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Corona post t<i>er</i>gu<i>m</i> Hercul<i>is</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p23",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(.61134 0 0 1.6992 1237 1459)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Polus sub cauda Vrse Minoris.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p24",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(-.86875 0 0 .67968 3444 1405)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Hercules</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p25",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(-1.12616 0 0 .41826 3687 1025)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Vrsa Minor</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p26",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(-1.28704 0 0 .65354 3957 621)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Vrsa Maior.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p27",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(-1.66994 -.49727 -.17718 .59501 4587 1582)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Serpens</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p28",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(-.6836 .85543 .485 .38757 2990 471)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Pell<i>is</i> leonis</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p29",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(1.07564 0 0 2.37888 1072 2211)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Boetes p<i>ost</i> t<i>er</i>gu<i>m</i> Vrse Maioris uersis pedib<i>us</i> ad Virgine<i>m</i> uidet<i>ur</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p30",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(.72396 0 0 1.85605 1907 2113)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Scorpione<i>m</i> calcat Serpe<i>n</i>tarius</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p31",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(.39994 0 0 -.47055 2042 1983)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Boetes</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p32",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"202.6\" height=\"124.7\" x=\"1234\" y=\"-56\" transform=\"matrix(2.31914 0 0 2.88394 28 1883)\"/></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Scorpius h<i>abe</i>t stellas in singulis cornib<i>us</i> binas, In fronte III cl<i>aras</i>, in dorso III, ** ue<i>n</i>tre II, in cauda V, in aculeo II. Fiunt XIX. Hic in spatiu<i>m</i> duor<i>um</i> signor<i>um</i> partitur.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
+		},
+		{
+			"@context": "http://www.w3.org/ns/anno.jsonld",
+			"id": "anno-4-p33",
+			"type": "Annotation",
+			"motivation": "commenting",
+			"category": "transcriptions",
+			"target": {
+				"source": "folio-3",
+				"selector": {
+					"type": "SvgSelector",
+					"value": "<svg><rect width=\"128\" height=\"121\" x=\"3100\" y=\"1522\" /></svg>"
+				}
+			},
+			"body": {
+				"type": "TextualBody",
+				"language": "en",
+				"format": "text/html",
+				"value": "<p>Scorpius h<i>abe</i>t stellas in singulis cornib<i>us</i> binas, In fronte III cl<i>aras</i>, in dorso III, ** ue<i>n</i>tre II, in cauda V, in aculeo II. Fiunt XIX. Hic in spatiu<i>m</i> duor<i>um</i> signor<i>um</i> partitur.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+			},
+			"created": "2015-10-13T13:00:00Z",
+			"creator": {
+				"id": "http://example.org/user1",
+				"type": "Person",
+				"name": "Hendrik Defoort"
+			}
 		}
 	]
 }

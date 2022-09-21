@@ -861,7 +861,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-i5",
+			"id": "anno-4-i5",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -887,7 +887,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-m2",
+			"id": "anno-4-m2",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "material",
@@ -913,7 +913,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-m1",
+			"id": "anno-4-m1",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "material",
@@ -939,7 +939,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-m3",
+			"id": "anno-4-m3",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "material",
@@ -965,7 +965,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-i1",
+			"id": "anno-4-i1",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -991,7 +991,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-i2",
+			"id": "anno-4-i2",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -1017,7 +1017,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-i3",
+			"id": "anno-4-i3",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -1043,7 +1043,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-i4",
+			"id": "anno-4-i4",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -1069,7 +1069,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-57",
+			"id": "anno-4-57",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1095,7 +1095,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-58",
+			"id": "anno-4-58",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1121,7 +1121,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-1",
+			"id": "anno-4-1",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1147,7 +1147,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-2",
+			"id": "anno-4-2",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1173,7 +1173,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-3",
+			"id": "anno-4-3",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1199,7 +1199,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-4",
+			"id": "anno-4-4",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1225,7 +1225,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-5",
+			"id": "anno-4-5",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1251,7 +1251,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-6a",
+			"id": "anno-4-6a",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1277,7 +1277,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-6b",
+			"id": "anno-4-6b",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1303,7 +1303,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-7",
+			"id": "anno-4-7",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1329,7 +1329,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-8",
+			"id": "anno-4-8",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1355,7 +1355,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-9",
+			"id": "anno-4-9",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1381,7 +1381,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-10",
+			"id": "anno-4-10",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1407,7 +1407,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-11",
+			"id": "anno-4-11",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1433,7 +1433,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-12a",
+			"id": "anno-4-12a",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1459,7 +1459,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-12b",
+			"id": "anno-4-12b",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1485,7 +1485,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-13",
+			"id": "anno-4-13",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1511,7 +1511,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-14",
+			"id": "anno-4-14",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1537,7 +1537,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-15",
+			"id": "anno-4-15",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1563,7 +1563,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-16",
+			"id": "anno-4-16",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1589,7 +1589,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-17",
+			"id": "anno-4-17",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1615,7 +1615,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-18",
+			"id": "anno-4-18",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1641,7 +1641,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-19",
+			"id": "anno-4-19",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1667,7 +1667,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-20",
+			"id": "anno-4-20",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1693,7 +1693,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-21",
+			"id": "anno-4-21",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1719,7 +1719,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-22",
+			"id": "anno-4-22",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1745,7 +1745,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-23",
+			"id": "anno-4-23",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1771,7 +1771,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-24",
+			"id": "anno-4-24",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1797,7 +1797,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-25",
+			"id": "anno-4-25",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1823,7 +1823,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-26",
+			"id": "anno-4-26",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1849,7 +1849,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-33",
+			"id": "anno-4-33",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1875,7 +1875,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-34",
+			"id": "anno-4-34",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1901,7 +1901,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-35",
+			"id": "anno-4-35",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1927,7 +1927,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-36",
+			"id": "anno-4-36",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1953,7 +1953,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-37",
+			"id": "anno-4-37",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -1979,7 +1979,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-38",
+			"id": "anno-4-38",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2005,7 +2005,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-39",
+			"id": "anno-4-39",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2031,7 +2031,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-40",
+			"id": "anno-4-40",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2057,7 +2057,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-41",
+			"id": "anno-4-41",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2083,7 +2083,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-42",
+			"id": "anno-4-42",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2109,7 +2109,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-43",
+			"id": "anno-4-43",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2135,7 +2135,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-44",
+			"id": "anno-4-44",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2161,7 +2161,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-45",
+			"id": "anno-4-45",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2187,7 +2187,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-46",
+			"id": "anno-4-46",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2213,7 +2213,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-47",
+			"id": "anno-4-47",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2239,7 +2239,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-48",
+			"id": "anno-4-48",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2265,7 +2265,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-49",
+			"id": "anno-4-49",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2291,7 +2291,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-50",
+			"id": "anno-4-50",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2317,7 +2317,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-51",
+			"id": "anno-4-51",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2343,7 +2343,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-52",
+			"id": "anno-4-52",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2369,7 +2369,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-53",
+			"id": "anno-4-53",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2395,7 +2395,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-54",
+			"id": "anno-4-54",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2421,7 +2421,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-55",
+			"id": "anno-4-55",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2447,7 +2447,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-56",
+			"id": "anno-4-56",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2473,7 +2473,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-59",
+			"id": "anno-4-59",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2499,7 +2499,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-60",
+			"id": "anno-4-60",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2525,7 +2525,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-61",
+			"id": "anno-4-61",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2551,7 +2551,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-63",
+			"id": "anno-4-63",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -2577,7 +2577,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-p1",
+			"id": "anno-4-p1",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2603,7 +2603,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-p2",
+			"id": "anno-4-p2",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2629,7 +2629,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-3-p3",
+			"id": "anno-4-p3",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2655,7 +2655,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p1",
+			"id": "anno-3-p1",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2681,7 +2681,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p2",
+			"id": "anno-3-p2",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2707,7 +2707,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p3",
+			"id": "anno-3-p3",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2733,7 +2733,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p4",
+			"id": "anno-3-p4",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2759,7 +2759,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p5",
+			"id": "anno-3-p5",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2785,7 +2785,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p6",
+			"id": "anno-3-p6",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2793,7 +2793,7 @@
 				"source": "folio-3",
 				"selector": {
 					"type": "SvgSelector",
-					"value": "<svg><path d=\"M2000 1886c22-19 16-65 38-70 23-5 52 21 61 0s14-80 0-86-26 37-41 25-48-10-30-25c17-15 47-55 62-87 14-31 67-81 111-55 43 27 60-9 76-22 16-12 13-15 13-15s-14-4-8-9 11-6 5-7c-7 0-20 2-15-3 6-5 26-17 21-22-6-5-12-6-6-11s56-40 82 17c0 0 6 26-16 39 0 0 87-51 92-70 5-18-5-13-5-13h-29v-16h34s10-19 32-15 13 7 13 7 102 10 101 24c0 14-3 14-27 13-24 0-74-13-74-13s-18 28-25 27c0 0-31 63-44 72-14 10-60 40-68 66-9 25-3 54 4 63 6 9 15 20 6 42 0 0 4 32 9 36s32 3 39 11c6 8 13 22 34 23s38 17 20 22c-17 4-25-4-29 2-3 6 1 10-7 10-7 0-37 9-38 0s15-7 20-10c4-3 26-13 21-13s-53-22-69-19c-16 2-31-10-39-15-8-6-28-32-34-34-7-2-25-22-37-17-12 6-11 7-6 20 5 12-1 38-8 46-8 8-1 12 2 19 4 7 2 10-5 11-8 1-22-5-26 6-5 10-25 9-29 6-5-3-10-34-17-34s-8-9-11-23c-2-15-8-38-24-34 0 0 1 40-8 57-10 17-21 22-46 24-24 2-19 19-28 28-17 20-47 22-47 22Zm198-76s-20-51-36-63c-17-13 18-118 18-118s73 15 94 0c0 0-7 23 3 40 0 0-13 13-11 25 0 0-45-11-55 0-9 11 19 116 6 124 0 0-17 9-19-8Z\"/></svg>"
+					"value": "<svg><path d=\"M2000 1886c22-19 16-65 38-70 23-5 52 21 61 0s14-80 0-86-26 37-41 25-48-10-30-25c17-15 47-55 62-87 14-31 67-81 111-55 43 27 60-9 76-22 16-12 13-15 13-15s-14-4-8-9 11-6 5-7c-7 0-20 2-15-3 6-5 26-17 21-22-6-5-12-6-6-11s56-40 82 17c0 0 6 26-16 39 0 0 87-51 92-70 5-18-5-13-5-13h-29v-16h34s10-19 32-15 13 7 13 7 102 10 101 24c0 14-3 14-27 13-24 0-74-13-74-13s-18 28-25 27c0 0-31 63-44 72-14 10-60 40-68 66-9 25-3 54 4 63 6 9 15 20 6 42 0 0 4 32 9 36s32 3 39 11c6 8 13 22 34 23s38 17 20 22c-17 4-25-4-29 2-3 6 1 10-7 10-7 0-37 9-38 0s15-7 20-10c4-3 26-13 21-13s-53-22-69-19c-16 2-31-10-39-15-8-6-28-32-34-34-7-2-25-22-37-17-12 6-11 7-6 20 5 12-1 38-8 46-8 8-1 12 2 19 4 7 2 10-5 11-8 1-22-5-26 6-5 10-25 9-29 6-5-3-10-34-17-34s-8-9-11-23c-2-15-8-38-24-34 0 0 1 40-8 57-10 17-21 22-46 24-24 2-19 19-28 28-17 20-47 22-47 22Zm198-76c2 17 19 8 19 8 13-8-15-113-6-124 10-11 55 0 55 0-2-12 11-25 11-25-10-17-3-40-3-40-21 15-94 0-94 0s-35 105-18 118c16 12 36 63 36 63Z\"/></svg>"
 				}
 			},
 			"body": {
@@ -2811,7 +2811,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p7",
+			"id": "anno-3-p7",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2837,7 +2837,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p8",
+			"id": "anno-3-p8",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2863,7 +2863,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p9",
+			"id": "anno-3-p9",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "iconography",
@@ -2889,7 +2889,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p10",
+			"id": "anno-3-p10",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2915,7 +2915,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p11",
+			"id": "anno-3-p11",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2941,7 +2941,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p12",
+			"id": "anno-3-p12",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2967,7 +2967,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p13",
+			"id": "anno-3-p13",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "pigments",
@@ -2993,7 +2993,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p14",
+			"id": "anno-3-p14",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3019,7 +3019,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p15",
+			"id": "anno-3-p15",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3045,7 +3045,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p16",
+			"id": "anno-3-p16",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3071,7 +3071,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p17",
+			"id": "anno-3-p17",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3097,7 +3097,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p18",
+			"id": "anno-3-p18",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3123,7 +3123,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p19",
+			"id": "anno-3-p19",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3149,7 +3149,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p20",
+			"id": "anno-3-p20",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3175,7 +3175,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p21",
+			"id": "anno-3-p21",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3201,7 +3201,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p22",
+			"id": "anno-3-p22",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3227,7 +3227,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p23",
+			"id": "anno-3-p23",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3253,7 +3253,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p24",
+			"id": "anno-3-p24",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3279,7 +3279,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p25",
+			"id": "anno-3-p25",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3305,7 +3305,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p26",
+			"id": "anno-3-p26",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3331,7 +3331,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p27",
+			"id": "anno-3-p27",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3357,7 +3357,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p28",
+			"id": "anno-3-p28",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3383,7 +3383,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p29",
+			"id": "anno-3-p29",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3409,7 +3409,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p30",
+			"id": "anno-3-p30",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3435,7 +3435,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p31",
+			"id": "anno-3-p31",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3461,7 +3461,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p32",
+			"id": "anno-3-p32",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3487,7 +3487,7 @@
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
-			"id": "anno-4-p33",
+			"id": "anno-3-p33",
 			"type": "Annotation",
 			"motivation": "commenting",
 			"category": "transcriptions",
@@ -3502,7 +3502,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Scorpius h<i>abe</i>t stellas in singulis cornib<i>us</i> binas, In fronte III cl<i>aras</i>, in dorso III, ** ue<i>n</i>tre II, in cauda V, in aculeo II. Fiunt XIX. Hic in spatiu<i>m</i> duor<i>um</i> signor<i>um</i> partitur.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Serpe<i>n</i>tariu<i>s</i> sup<i>er</i> Hercule<i>m</i> posit<i>us</i> e<i>st</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis. Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {

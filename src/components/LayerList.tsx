@@ -35,6 +35,7 @@ function LayerList({ viewState }: LayerListProps) {
 									value={i}
 									control={<Radio color="primary" />}
 									label={layer.label.en[0]}
+									key={layer.label.en[0]}
 								/>
 							))
 						) : (

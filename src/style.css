@@ -182,6 +182,7 @@
 }
 
 .canvas path,
+.canvas polygon,
 .canvas ellipse,
 .canvas circle,
 .canvas rect {

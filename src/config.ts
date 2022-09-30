@@ -23,6 +23,12 @@ export const categoryModel = [
 		enabledByDefault: true,
 	},
 	{
+		id: "translations",
+		name: "Translations",
+		icon: TextFieldsIcon,
+		enabledByDefault: true,
+	},
+	{
 		id: "material",
 		name: "Material technical information",
 		icon: LayersIcon,

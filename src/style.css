@@ -156,13 +156,15 @@
 	margin-bottom: 4rem;
 }
 
-.anno-panel section[role="doc-bibliography"] {
+.anno-panel section[role="doc-bibliography"],
+.cross-references {
 	border-top: 1px solid var(--color-muted);
 	margin-top: 4rem;
 	padding-top: 0.5rem;
 }
 
-.anno-panel section[role="doc-bibliography"] h1 {
+.anno-panel section[role="doc-bibliography"] h1,
+.cross-references h1 {
 	font-size: 1rem;
 	margin: 0;
 }
@@ -258,7 +260,8 @@
 	margin: 0;
 }
 
-.format-html h1 {
+.format-html h1,
+.cross-references h1 {
 	font-style: inherit;
 	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-weight: 400;
@@ -271,4 +274,20 @@
 
 .anno-top-meta p {
 	font-size: 0.8rem;
+}
+
+.cross-references ul {
+	list-style: none;
+	padding-inline: 0;
+}
+
+.cross-references button {
+	all: unset;
+	--card-bg: white;
+	background-color: var(--card-bg);
+	box-sizing: border-box;
+	width: 100%;
+	display: flex;
+	cursor: pointer;
+	color: var(--color-main);
 }

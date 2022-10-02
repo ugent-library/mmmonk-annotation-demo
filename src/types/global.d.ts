@@ -52,6 +52,7 @@ declare global {
 			type: "Person" | "Organization"
 			name: string
 		}
+		crossReferences?: { id: string }[]
 	}
 
 	type HydratedAnnotation = Omit<Annotation, "category"> & {

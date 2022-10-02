@@ -290,7 +290,12 @@
 				"id": "http://example.org/evelien-hauwaerts",
 				"type": "Person",
 				"name": "Evelien Hauwaerts"
-			}
+			},
+			"crossReferences": [
+				{
+					"id": "2092669f-3a86-4287-9ffc-91b166eabba9"
+				}
+			]
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",
@@ -347,7 +352,12 @@
 				"id": "http://example.org/evelien-hauwaerts",
 				"type": "Person",
 				"name": "Evelien Hauwaerts"
-			}
+			},
+			"crossReferences": [
+				{
+					"id": "8b6f1e42-3954-4004-82e0-859e1167289a"
+				}
+			]
 		},
 		{
 			"@context": "http://www.w3.org/ns/anno.jsonld",

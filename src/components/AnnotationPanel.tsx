@@ -10,6 +10,7 @@ import LockOpenSharp from "@material-ui/icons/LockOpenSharp"
 import LockSharp from "@material-ui/icons/LockSharp"
 import CloseIcon from "@material-ui/icons/Close"
 import AnnotationBody from "./AnnotationBody"
+import { hydratedAnnotations } from "../data"
 import { useAnnotations } from "../hooks/useAnnotations"
 
 function formatDate(dateString: string) {
@@ -91,6 +92,9 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 				</header>
 				<main>
 					<AnnotationBody body={annotation.body} />
+					{annotation.crossReferences?.length ? (
+						<CrossReferences refs={annotation.crossReferences} />
+					) : null}
 				</main>
 			</div>
 			<div>
@@ -127,3 +131,49 @@ function AnnotationPanel({ annotation }: AnnotationPanelProps) {
 }
 
 export default AnnotationPanel
+
+function CrossReferences({ refs }: { refs: { id: string }[] }) {
+	const { activateAnnotation } = useAnnotations()
+	const hydratedRefs = refs.map(ref =>
+		hydratedAnnotations.find(anno => anno.id === ref.id)
+	)
+	return (
+		<section className="cross-references">
+			<h1>See also</h1>
+			<ul>
+				{hydratedRefs.map(ref => {
+					if (ref === undefined) {
+						throw new Error("Cross-reference does not exist in annotations")
+					} else {
+						return (
+							<li key={ref.id}>
+								<button onClick={() => activateAnnotation(ref.id)}>
+									<Grid
+										container
+										spacing={1}
+										alignItems="center"
+										justifyContent="space-between"
+									>
+										<Grid item>
+											<Typography>Annotation</Typography>
+										</Grid>
+										<Grid item>
+											<Grid item>
+												<Typography
+													variant="overline"
+													className="anno-overline"
+												>
+													in {ref.category.name}
+												</Typography>
+											</Grid>
+										</Grid>
+									</Grid>
+								</button>
+							</li>
+						)
+					}
+				})}
+			</ul>
+		</section>
+	)
+}

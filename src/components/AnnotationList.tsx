@@ -30,9 +30,9 @@ function AnnotationItem({ annotation }: { annotation: HydratedAnnotation }) {
 	const isActive = activeAnnotations.find(anno => anno.id === annotation.id)
 	return (
 		<>
-			<li>
+			<li data-annotation-id={annotation.id}>
 				<button
-					onClick={() => !isActive && activateAnnotation(annotation.id)}
+					onClick={() => !isActive && activateAnnotation(annotation.id, false)}
 					className={
 						isActive ? "anno-card anno-card-open" : "anno-card anno-card-closed"
 					}

@@ -165,12 +165,12 @@
 
 .anno-panel section[role="doc-bibliography"] h1,
 .cross-references h1 {
-	font-size: 1rem;
+	font-size: 0.9rem;
 	margin: 0;
 }
 
 .anno-panel section[role="doc-bibliography"] p {
-	font-size: 0.9rem;
+	font-size: 0.75rem;
 }
 
 .color-muted {

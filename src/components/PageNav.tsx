@@ -13,6 +13,22 @@ function PageNav({ viewState }: PageNavProps) {
 	const { pageIndex } = view
 
 	const { closeAllExceptPinnedAnnotations } = useAnnotations()
+
+	function preloadImg(src: string) {
+		const img = new Image()
+		img.src = src
+	}
+
+	function handleHover() {
+		if (pageIndex + 1 < total) {
+			const nextPage = pages.items[pageIndex + 1]
+			const { src } = nextPage.body.items
+				? nextPage.body.items[view.layerIndex]
+				: nextPage.body
+			preloadImg(src)
+		}
+	}
+
 	function next() {
 		closeAllExceptPinnedAnnotations()
 		if (pageIndex + 1 < total)
@@ -44,6 +60,7 @@ function PageNav({ viewState }: PageNavProps) {
 				<IconButton
 					disabled={pageIndex + 1 >= total}
 					onClick={next}
+					onMouseEnter={handleHover}
 					aria-label="Next item"
 				>
 					<SvgIcon>

@@ -13,7 +13,7 @@ function useAnnotations() {
 	function activateAnnotation(id: string, scrollToCard: boolean = true): void {
 		if (scrollToCard) {
 			const card = document.querySelector(`[data-annotation-id="${id}"]`)
-			card?.scrollIntoView({ behavior: "smooth", block: "center" })
+			card?.scrollIntoView({ block: "center" })
 		}
 		setActiveAnnotations(prev => {
 			const pinnedPanels = prev.filter(annotation => annotation.pinned)

@@ -18,7 +18,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Architectural/decorative frame around Lambertus and text</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
+				"value": "<p>Architectural/decorative frame around Lambertus and text</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -44,7 +44,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Monk (Lambertus of St-Omaars)</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
+				"value": "<p>Monk (Lambertus of St-Omaars)</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -70,7 +70,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>City of St-Omaars</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
+				"value": "<p>City of St-Omaars</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -96,7 +96,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Vase added at a later date</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller</p></div></section>"
+				"value": "<p>Vase added at a later date</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -122,7 +122,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -148,7 +148,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -174,7 +174,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -200,7 +200,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://medievalfragments.wordpress.com/2014/07/11/mark-their-words-medieval-bookmarks/\">Fore-edge bookmark</a></h1><p>A long piece of the parchment was cut in order to fold and loop the parchments piece through the cut in the page thereby making a stub of parchment stick out on the side."
+				"value": "<h1><a href=\"https://medievalfragments.wordpress.com/2014/07/11/mark-their-words-medieval-bookmarks/\">Fore-edge bookmark</a></h1><p>A long piece of the parchment was cut in order to fold and loop the parchments piece through the cut in the page thereby making a stub of parchment stick out on the side.</p>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -226,7 +226,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Sithiu uilla</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Sithiu uilla</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -314,7 +314,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Versvs de s<i>an</i>cto avdomaro, morinorv<i>m</i> ep<i>isc</i>opo.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Versvs de s<i>an</i>cto avdomaro, morinorv<i>m</i> ep<i>isc</i>opo.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -345,7 +345,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Co<i>n</i>statine<i>n</i>sis regio, loc<i>us</i> Aurea Vallis, Friulf<i>us</i> genitor, genitrix Domitta uocata, Audomare, tuę refer<i>am</i> exordia uitę. Iste beator<i>um</i> dec<i>us</i> <i>et </i>speculu<i>m</i> monachor<i>um</i>, <i>Et</i> monach<i>us</i> fact<i>us </i>monachi uigilau<i>it</i> i<i>n</i> act<i>us</i>; <i>Christo </i>psallebat; si q<i>ua</i>ndo lingua tacębat, Vota D<i>e</i>o soluit, noua ca<i>n</i>tica pectore uoluit. Sobrius <i>et</i> cast<i>us</i>, p<i>er</i> cuncta negotia iust<i>us</i>, P<i>re</i> cunctis humil<i>is</i>, piu<i>s</i> atq<i>ue</i> p<i>er</i> om<i>n</i>ia mitis: Exemplar mor<i>um</i> se p<i>re</i>buit ipse bonor<i>um</i>, in cunctis let<i>us</i>, nullo memore replet<i>us</i>. P[/<i>re</i>sul]agenda q<i>ui</i>de<i>m </i>mo<i>n</i>st \r/abat, agebat <i>et</i> idem, Toto corde duo querens secreta q<i>ui</i>etis Pauit doctrina t<i>er</i>restrial corda fideli. Doctor p<i>re</i> cunctis ieiunia s<i>an</i>c<i>t</i>a frequentans, In ieiunando p<i>re</i>lat<i>us</i> fit studiosus. Ó qua<i>m</i> dulcis h<i>om</i>o, qua<i>m</i> Clemens qua<i>m</i>q<i>ue</i> beat<i>us</i>, Qua<i>m</i> bon<i>us</i> <i>et </i>iust<i>us</i> D<i>omi</i>noq<i>ue</i> p<i>er</i> om<i>ni</i>a gratus, Co<i>n</i>te<i>m</i>platiuę nolens bona p<i>er</i>dere uitę! I<i>am</i> cu<i>m</i> s<i>an</i>c<i>t</i>or<i>um</i> grege regnat i<i>n</i> arcę polor<i>um</i>. AM<i>EN</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Co<i>n</i>statine<i>n</i>sis regio, loc<i>us</i> Aurea Vallis, Friulf<i>us</i> genitor, genitrix Domitta uocata, Audomare, tuę refer<i>am</i> exordia uitę. Iste beator<i>um</i> dec<i>us</i> <i>et </i>speculu<i>m</i> monachor<i>um</i>, <i>Et</i> monach<i>us</i> fact<i>us </i>monachi uigilau<i>it</i> i<i>n</i> act<i>us</i>; <i>Christo </i>psallebat; si q<i>ua</i>ndo lingua tacębat, Vota D<i>e</i>o soluit, noua ca<i>n</i>tica pectore uoluit. Sobrius <i>et</i> cast<i>us</i>, p<i>er</i> cuncta negotia iust<i>us</i>, P<i>re</i> cunctis humil<i>is</i>, piu<i>s</i> atq<i>ue</i> p<i>er</i> om<i>n</i>ia mitis: Exemplar mor<i>um</i> se p<i>re</i>buit ipse bonor<i>um</i>, in cunctis let<i>us</i>, nullo memore replet<i>us</i>. P[/<i>re</i>sul]agenda q<i>ui</i>de<i>m </i>mo<i>n</i>st \r/abat, agebat <i>et</i> idem, Toto corde duo querens secreta q<i>ui</i>etis Pauit doctrina t<i>er</i>restrial corda fideli. Doctor p<i>re</i> cunctis ieiunia s<i>an</i>c<i>t</i>a frequentans, In ieiunando p<i>re</i>lat<i>us</i> fit studiosus. Ó qua<i>m</i> dulcis h<i>om</i>o, qua<i>m</i> Clemens qua<i>m</i>q<i>ue</i> beat<i>us</i>, Qua<i>m</i> bon<i>us</i> <i>et </i>iust<i>us</i> D<i>omi</i>noq<i>ue</i> p<i>er</i> om<i>ni</i>a gratus, Co<i>n</i>te<i>m</i>platiuę nolens bona p<i>er</i>dere uitę! I<i>am</i> cu<i>m</i> s<i>an</i>c<i>t</i>or<i>um</i> grege regnat i<i>n</i> arcę polor<i>um</i>. AM<i>EN</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -376,7 +376,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Anno D<i>omi</i>ni DCLXVIII s<i>an</i>c<i>tus </i>Audomar<i>us</i> Morinoru<i>m</i> fit ep<i>iscopus</i>, seditq<i>ue</i> annis XXX p<i>er</i> t<i>em</i>p<i>o</i>ra ap<i>osto</i>licor<i>um</i> Po<i>n</i>tificu<i>m</i> D<i>e</i>odati, Doni, Agatonis, Leonis, Benedecti, Ioh<i>ann</i>is, Cononis <i>et</i> Sergii.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Anno D<i>omi</i>ni DCLXVIII s<i>an</i>c<i>tus </i>Audomar<i>us</i> Morinoru<i>m</i> fit ep<i>iscopus</i>, seditq<i>ue</i> annis XXX p<i>er</i> t<i>em</i>p<i>o</i>ra ap<i>osto</i>licor<i>um</i> Po<i>n</i>tificu<i>m</i> D<i>e</i>odati, Doni, Agatonis, Leonis, Benedecti, Ioh<i>ann</i>is, Cononis <i>et</i> Sergii.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -402,7 +402,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Anno D<i>omi</i>ni DCXCVII s<i>an</i>c<i>tus</i> Audomar<i>us</i> migrauit felix á s<i>e</i>c<i>u</i>lo, t<i>em</i>p<i>o</i>re Ioh<i>ann</i>is p<i>a</i>p<i>e</i> <i>et</i> Tyberii imp<i>er</i>atoris <i>et</i> Clodouei Fra<i>n</i>cor<i>um</i> regis, filii Theoderici, indictione X. Post anno s<i>e</i>c<i>un</i>do s<i>anctus</i> B<i>er</i>tin<i>us </i>obit.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Anno D<i>omi</i>ni DCXCVII s<i>an</i>c<i>tus</i> Audomar<i>us</i> migrauit felix á s<i>e</i>c<i>u</i>lo, t<i>em</i>p<i>o</i>re Ioh<i>ann</i>is p<i>a</i>p<i>e</i> <i>et</i> Tyberii imp<i>er</i>atoris <i>et</i> Clodouei Fra<i>n</i>cor<i>um</i> regis, filii Theoderici, indictione X. Post anno s<i>e</i>c<i>un</i>do s<i>anctus</i> B<i>er</i>tin<i>us </i>obit.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -428,7 +428,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Id est sancti Audomari castrum</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Id est sancti Audomari castrum</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -454,7 +454,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>(Initial) Lambertus</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>(Initial) Lambertus</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -480,7 +480,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Nomina p<i>re</i>lator<i>um</i> in Sithiu q<i>ui</i> rexer<i>um</i>t utrasq<i>ue</i> eccl<i>esi</i>as: Bertin<i>us</i>. Rigob<i>e</i>rt<i>us</i>. Erlefrid<i>us</i>. Erke<i>m</i>bod<i>us</i>. Waimar<i>us</i>. N<i>an</i>thari<i>us</i>. Dadh<i>er</i>t<i>us</i>. Hardrad<i>us</i>. Otland<i>us</i>. N<i>an</i>thari<i>us</i>. Fredegis<i>us</i>. Anno D<i>om</i>ini DCCCXXX. Req<i>ui</i>re supr<i>a</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Nomina p<i>re</i>lator<i>um</i> in Sithiu q<i>ui</i> rexer<i>um</i>t utrasq<i>ue</i> eccl<i>esi</i>as: Bertin<i>us</i>. Rigob<i>e</i>rt<i>us</i>. Erlefrid<i>us</i>. Erke<i>m</i>bod<i>us</i>. Waimar<i>us</i>. N<i>an</i>thari<i>us</i>. Dadh<i>er</i>t<i>us</i>. Hardrad<i>us</i>. Otland<i>us</i>. N<i>an</i>thari<i>us</i>. Fredegis<i>us</i>. Anno D<i>om</i>ini DCCCXXX. Req<i>ui</i>re supr<i>a</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -506,7 +506,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Gloriosvs Pontifex Avdomarvs</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Gloriosvs Pontifex Avdomarvs</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -532,7 +532,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Anno MLII oste<i>n</i>dit archiep<i>iscopus </i>Wido <i>sanctum</i> Aud<i>omarum</i> po<i>pu</i>lo</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Anno MLII oste<i>n</i>dit archiep<i>iscopus </i>Wido <i>sanctum</i> Aud<i>omarum</i> po<i>pu</i>lo</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -558,7 +558,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Anno Do<i>mi</i>ni DCC\\c/XXX Fredegis<i>us</i> Sithiu p<i>re</i>fuit annis XIIII. Hugo abb<i>as</i> s<i>an</i>c<i>t</i>i Suintini annis XX. Adelard<i>us</i> a<i>nnis</i> XXII. Hugo an<i>nis</i> XXIII. Odo an<i>nis</i> XXIIII. Hildeuin<i>us</i> XXVII. Aluuin<i>us</i> a<i>nnis</i> VIII/I\\. Lotmar<i>us</i> XXI/I\\. Helecin<i>us</i> XXX/I\\. Ebroin<i>us</i> XIII/I\\. Balduin<i>us</i> XIIII. Frumold<i>us</i> VIII. Folcard<i>us</i> IX. Roger<i>us</i> II. Bald<i>uinus</i> Ariensis an<i>nis</i> III. Arnulfus annis XLIIII. Otger<i>us</i> annis.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Anno Do<i>mi</i>ni DCC\\c/XXX Fredegis<i>us</i> Sithiu p<i>re</i>fuit annis XIIII. Hugo abb<i>as</i> s<i>an</i>c<i>t</i>i Suintini annis XX. Adelard<i>us</i> a<i>nnis</i> XXII. Hugo an<i>nis</i> XXIII. Odo an<i>nis</i> XXIIII. Hildeuin<i>us</i> XXVII. Aluuin<i>us</i> a<i>nnis</i> VIII/I\\. Lotmar<i>us</i> XXI/I\\. Helecin<i>us</i> XXX/I\\. Ebroin<i>us</i> XIII/I\\. Balduin<i>us</i> XIIII. Frumold<i>us</i> VIII. Folcard<i>us</i> IX. Roger<i>us</i> II. Bald<i>uinus</i> Ariensis an<i>nis</i> III. Arnulfus annis XLIIII. Otger<i>us</i> annis.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -584,7 +584,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>XLVII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>XLVII</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -610,7 +610,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>(crocodile op f. 61v)</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>(crocodile op f. 61v)</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -636,7 +636,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Behemoth</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Behemoth</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -662,7 +662,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Devil</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Devil</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -688,7 +688,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Land (Beast of the Land)</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Land (Beast of the Land)</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -714,7 +714,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>dit <i>et</i>, si in puteu<i>m</i> ceciderit, potantes ex eo morient<i>ur</i>. Viuit aut<i>em</i> in mediis fla<i>m</i>mis <i>et</i> n<i>on</i> uritur, sed extinguit incendium. <b>S</b>corpio animal armat<i>um</i> aculeo caudam figit <i>et</i> ideo inter serpentes numerat<i>ur</i>, q<i>ui</i>a arcuate uulnere uenena diffundit. <b>S</b>tellio t<i>er</i>go depict<i>us</i> scorpio<i>n</i>ib<i>us</i> e<i>st</i> co<i>n</i>t<i>ra</i>riu<i>s</i>, ut uiso eo pauore<i>m</i> infefrat. <b>S</b><i>un</i>t <i>et</i> alia genera serpe<i>n</i>tiu<i>m</i>, uidel<i>icet</i> admoditę, elefantię <i>et</i> draco<i>n</i>tes. <b>L</b>acerta <i>et</i> stilion, q<i>ui</i>a IIIIor nitu<i>n</i>t<i>ur</i> pedib<i>us</i>, n<i>on</i> serpe<i>n</i>tes sed reptilia s<i>un</i>t. <b>L</b>acertor<i>um</i> plura s<i>un</i>t genera, ut botrix, saura, stellio, Salamandra. <b>S</b>aura lacertus q<i>uan</i>do senescit cecant<i>ur</i> ei<i>us</i> oculi, <i>et</i> intrans in foram<i>en</i> parietis orto sole inte<i>n</i>dit co<i>n</i>t<i>ra </i>radios <i>et </i>illuminant<i>ur</i> ei<i>us</i> oculi. <b>O</b>m<i>n</i>es aute<i>m</i> serpentes natura frigidi s<i>un</i>t nec p<i>er</i>cutiunt nisi q<i>uan</i>do calescunt. Quando aute<i>m</i> s<i>un</i>t frigidi, nullu<i>m</i> tang<i>un</i>t. Vnde <i>et </i>uenena eor<i>um</i> plus die qua<i>m</i> nocte nocent, q<i>ui</i>a frigidi s<i>un</i>t nocturno rore. Costis aute<i>m</i> et squamaru<i>m</i> nisib<i>us</i> repunt, squamis q<i>ua</i>si unguib<i>us</i>, costis quasi crurib<i>us</i> innitu<i>n</i>t<i>ur</i>. Quando aute<i>m</i> senesc<i>un</i>t, senectute<i>m</i> cu<i>m</i> pelle deponent.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>dit <i>et</i>, si in puteu<i>m</i> ceciderit, potantes ex eo morient<i>ur</i>. Viuit aut<i>em</i> in mediis fla<i>m</i>mis <i>et</i> n<i>on</i> uritur, sed extinguit incendium. <b>S</b>corpio animal armat<i>um</i> aculeo caudam figit <i>et</i> ideo inter serpentes numerat<i>ur</i>, q<i>ui</i>a arcuate uulnere uenena diffundit. <b>S</b>tellio t<i>er</i>go depict<i>us</i> scorpio<i>n</i>ib<i>us</i> e<i>st</i> co<i>n</i>t<i>ra</i>riu<i>s</i>, ut uiso eo pauore<i>m</i> infefrat. <b>S</b><i>un</i>t <i>et</i> alia genera serpe<i>n</i>tiu<i>m</i>, uidel<i>icet</i> admoditę, elefantię <i>et</i> draco<i>n</i>tes. <b>L</b>acerta <i>et</i> stilion, q<i>ui</i>a IIIIor nitu<i>n</i>t<i>ur</i> pedib<i>us</i>, n<i>on</i> serpe<i>n</i>tes sed reptilia s<i>un</i>t. <b>L</b>acertor<i>um</i> plura s<i>un</i>t genera, ut botrix, saura, stellio, Salamandra. <b>S</b>aura lacertus q<i>uan</i>do senescit cecant<i>ur</i> ei<i>us</i> oculi, <i>et</i> intrans in foram<i>en</i> parietis orto sole inte<i>n</i>dit co<i>n</i>t<i>ra </i>radios <i>et </i>illuminant<i>ur</i> ei<i>us</i> oculi. <b>O</b>m<i>n</i>es aute<i>m</i> serpentes natura frigidi s<i>un</i>t nec p<i>er</i>cutiunt nisi q<i>uan</i>do calescunt. Quando aute<i>m</i> s<i>un</i>t frigidi, nullu<i>m</i> tang<i>un</i>t. Vnde <i>et </i>uenena eor<i>um</i> plus die qua<i>m</i> nocte nocent, q<i>ui</i>a frigidi s<i>un</i>t nocturno rore. Costis aute<i>m</i> et squamaru<i>m</i> nisib<i>us</i> repunt, squamis q<i>ua</i>si unguib<i>us</i>, costis quasi crurib<i>us</i> innitu<i>n</i>t<i>ur</i>. Quando aute<i>m</i> senesc<i>un</i>t, senectute<i>m</i> cu<i>m</i> pelle deponent.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -740,7 +740,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Cocodrillus animal <i>et</i> piscis Ethiops in Nilo,</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Cocodrillus animal <i>et</i> piscis Ethiops in Nilo,</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -766,7 +766,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Ualens in terra <i>et</i> aqua</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Ualens in terra <i>et</i> aqua</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -792,7 +792,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>XLVIII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>XLVIII</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -818,7 +818,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>DE PISCIB<i>VS </i>ET ANIMALIB<i>VS</i> AQVATICIS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>DE PISCIB<i>VS </i>ET ANIMALIB<i>VS</i> AQVATICIS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -844,7 +844,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>COCODRILLVS a croceo colore dict<i>us</i> in Nilo fluuio gignit<i>ur</i>, animal quadrupes in t<i>er</i>ra <i>et</i> aqua ualens, longitudine XXti cubitor<i>um</i>, dentiu<i>m</i> <i>et</i> unguium immanitate armatu<i>m</i>, tantaq<i>ue</i> cutis duritia ut tela ictusq<i>ue</i> lapidu<i>m</i> t<i>er</i>go rep<i>er</i>cutiat; iua in t<i>er</i>ra fou<i>et</i>, mascul<i>us</i> <i>et</i> femina uices seruant; faciem h<i>abe</i>t ho<i>min</i>is, sed ędendo n<i>on</i> inferiure<i>m</i> mola<i>m</i>, ut homo, sed superiore<i>m</i> mouit. Hunc delfinus serratus interficit. Amphyuia s<i>un</i>t genera pisciu<i>m</i> ambulandi in t<i>er</i>ris usu<i>m</i> <i>et</i> natandi in aquis habentes officiu<i>m</i>, ut focę <i>et</i> ypotami. Yppotam<i>us</i> in Nilo fluuio ęq<i>uo</i> similis, dorso iubato, [/maior elepha<i>n</i>to, cauda tortuosa, resupinato ore, hi<i>n</i>nit<i>us</i> emitte<i>n</i>s co<i>m</i>morat<i>ur</i> depascens segetes. Hui<i>us</i>modi bestię CCtos milites Alexa<i>n</i>dri p<i>er</i> a<i>m</i>ne<i>m</i> nata<i>n</i>tes rapuer<i>unt</i> <i>et</i> crudelit<i>er</i> affecer<i>unt</i>].</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>COCODRILLVS a croceo colore dict<i>us</i> in Nilo fluuio gignit<i>ur</i>, animal quadrupes in t<i>er</i>ra <i>et</i> aqua ualens, longitudine XXti cubitor<i>um</i>, dentiu<i>m</i> <i>et</i> unguium immanitate armatu<i>m</i>, tantaq<i>ue</i> cutis duritia ut tela ictusq<i>ue</i> lapidu<i>m</i> t<i>er</i>go rep<i>er</i>cutiat; iua in t<i>er</i>ra fou<i>et</i>, mascul<i>us</i> <i>et</i> femina uices seruant; faciem h<i>abe</i>t ho<i>min</i>is, sed ędendo n<i>on</i> inferiure<i>m</i> mola<i>m</i>, ut homo, sed superiore<i>m</i> mouit. Hunc delfinus serratus interficit. Amphyuia s<i>un</i>t genera pisciu<i>m</i> ambulandi in t<i>er</i>ris usu<i>m</i> <i>et</i> natandi in aquis habentes officiu<i>m</i>, ut focę <i>et</i> ypotami. Yppotam<i>us</i> in Nilo fluuio ęq<i>uo</i> similis, dorso iubato, [/maior elepha<i>n</i>to, cauda tortuosa, resupinato ore, hi<i>n</i>nit<i>us</i> emitte<i>n</i>s co<i>m</i>morat<i>ur</i> depascens segetes. Hui<i>us</i>modi bestię CCtos milites Alexa<i>n</i>dri p<i>er</i> a<i>m</i>ne<i>m</i> nata<i>n</i>tes rapuer<i>unt</i> <i>et</i> crudelit<i>er</i> affecer<i>unt</i>].</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -870,7 +870,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>De crocodrillo <i>et</i> camela gariofil<i>us</i> gignit<i>ur</i>, <i>et</i> de gariofilo <i>et</i> camela dromeda nascit<i>ur</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>De crocodrillo <i>et</i> camela gariofil<i>us</i> gignit<i>ur</i>, <i>et</i> de gariofilo <i>et</i> camela dromeda nascit<i>ur</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -896,7 +896,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>DIABOL<i>VS</i> SEDENS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>DIABOL<i>VS</i> SEDENS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -922,7 +922,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>SUP<i>ER</i> BEEMOTH</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>SUP<i>ER</i> BEEMOTH</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -948,7 +948,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>ORIENTIS BESTIAM SINGULAREM ET SOLAM, <i>ID</i> <i>EST</i> ANTI<i>CH</i>R<i>ISTV</i>M</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>ORIENTIS BESTIAM SINGULAREM ET SOLAM, <i>ID</i> <i>EST</i> ANTI<i>CH</i>R<i>ISTV</i>M</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -974,7 +974,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Bęhemoth est belua <i>et</i> animal quadrupes dentiu<i>m</i> imanitate amatu<i>m</i>, <i>et</i> lingua<i>m</i> exerit, habens cornua arietu<i>m</i> similia <i>et</i> ei<i>us</i> cartilago q<i>ua</i>si la<i>m</i>minę ferreę, habens testiculos p<i>er</i>plexes <i>et</i> pedes animalis, cui<i>us</i> ossa s<i>un</i>t sic<i>ut</i> fistulę ęris. Ha<i>be</i>t aute<i>m</i> ccauda<i>m</i> draconis atroce<i>m</i> <i>et</i> longa<i>m</i> quasi cędrus. Caude quidę<i>m</i> ligat dentib<i>us</i>q<i>ue</i> uulnerat. Huic mille mo<i>n</i>tes herbas fęr<i>un</i>t, quib<i>us</i> pascit<i>ur</i>, fenu<i>m</i> sic<i>ut </i>bos comedens <i>et</i> fluuiu<i>m</i> absorbens. Sub umbra eni<i>m</i> dormit in secreto calami in locis hum<i>en</i>tib<i>us</i>. A mu<i>n</i>di <i>ergo</i> origine exort<i>us</i> ipso transeunte peribit. Significant aut<i>em </i>diabolu<i>m</i> qui de excelsis ad ima ruit <i>et </i>p<i>ro</i> merito suo ut a<i>n</i>i<i>m</i>al brutu<i>m</i> effect<i>us</i> e<i>st</i>. Significant etia<i>m</i> Anti<i>christu</i>m p<i>er</i>ditio<i>n</i>is filiu<i>m</i> in fine uenturu<i>m</i>, /qui in q<i>ua</i>ntu<i>m</i> poterit coop<i>er</i>ante diabolo p<i>er</i>d<i>et</i> gen<i>us</i> humanu<i>m</i> <i>et</i> i<i>n</i> nouissimo seipsum\\.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Bęhemoth est belua <i>et</i> animal quadrupes dentiu<i>m</i> imanitate amatu<i>m</i>, <i>et</i> lingua<i>m</i> exerit, habens cornua arietu<i>m</i> similia <i>et</i> ei<i>us</i> cartilago q<i>ua</i>si la<i>m</i>minę ferreę, habens testiculos p<i>er</i>plexes <i>et</i> pedes animalis, cui<i>us</i> ossa s<i>un</i>t sic<i>ut</i> fistulę ęris. Ha<i>be</i>t aute<i>m</i> ccauda<i>m</i> draconis atroce<i>m</i> <i>et</i> longa<i>m</i> quasi cędrus. Caude quidę<i>m</i> ligat dentib<i>us</i>q<i>ue</i> uulnerat. Huic mille mo<i>n</i>tes herbas fęr<i>un</i>t, quib<i>us</i> pascit<i>ur</i>, fenu<i>m</i> sic<i>ut </i>bos comedens <i>et</i> fluuiu<i>m</i> absorbens. Sub umbra eni<i>m</i> dormit in secreto calami in locis hum<i>en</i>tib<i>us</i>. A mu<i>n</i>di <i>ergo</i> origine exort<i>us</i> ipso transeunte peribit. Significant aut<i>em </i>diabolu<i>m</i> qui de excelsis ad ima ruit <i>et </i>p<i>ro</i> merito suo ut a<i>n</i>i<i>m</i>al brutu<i>m</i> effect<i>us</i> e<i>st</i>. Significant etia<i>m</i> Anti<i>christu</i>m p<i>er</i>ditio<i>n</i>is filiu<i>m</i> in fine uenturu<i>m</i>, /qui in q<i>ua</i>ntu<i>m</i> poterit coop<i>er</i>ante diabolo p<i>er</i>d<i>et</i> gen<i>us</i> humanu<i>m</i> <i>et</i> i<i>n</i> nouissimo seipsum\\.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1000,7 +1000,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>XLVIIII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>XLVIIII</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1026,7 +1026,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Decorated initials</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Decorated initials</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1052,7 +1052,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>surrounded by the circles of the planets</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>surrounded by the circles of the planets</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1078,7 +1078,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>asymmetrically inserted bifolium, which seems to antedate the other parts of the quire (XII)</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>asymmetrically inserted bifolium, which seems to antedate the other parts of the quire (XII)</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1104,7 +1104,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>“The piece of parchment at Lambert’s disposal was too small for making the bifolium plus its extension at the top and had to be enlarged by a strip of parchment at the right side.”</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>“The piece of parchment at Lambert’s disposal was too small for making the bifolium plus its extension at the top and had to be enlarged by a strip of parchment at the right side.”</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1130,7 +1130,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>extraordinary folding upper part in the form of a segment of a circle</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>extraordinary folding upper part in the form of a segment of a circle</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1156,7 +1156,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Northern temperate zone (left) > Europe, Africa, Asia</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Northern temperate zone (left) > Europe, Africa, Asia</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1182,7 +1182,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Southern temp zone</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Southern temp zone</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1208,7 +1208,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Equatorial Ocean</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>Equatorial Ocean</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1234,7 +1234,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>oblique red index with a graph of the course of the Planets during one year</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></div></section>"
+				"value": "<p>oblique red index with a graph of the course of the Planets during one year</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 86-88, 223.</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1260,7 +1260,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Cęlu<i>m</i> superioris circuli D<i>eu</i>m uirtutesq<i>ue</i> co<i>n</i>tin<i>et</i> angelicas, q<i>uo</i>d D<i>eu</i>s glacialibus aquis solidauit. Cęlum huic p<i>ro</i>ximum co<i>n</i>tin<i>et</i> infixos stellaru<i>m</i> cursus et<i>er</i>nos. Cęlu<i>m </i>a suppremo t<i>er</i>tiu<i>m</i> celestes co<i>n</i>tin<i>et</i> potestates. Cęlu<i>m</i> á sup<i>er</i>no quartu<i>m</i> co<i>n</i>tin<i>et</i> ang<i>e</i>los <i>et</i> archang<i>e</i>los, q<i>ui</i> ad nos nuntiando exue<i>n</i>t. Celu<i>m</i> a supp<i>re</i>mo Vtum co<i>n</i>tin<i>et</i> paradysum, in q<i>uo</i> Paulus fuerat raptus, ubi p<i>er</i>fector<i>um</i> a<i>n</i>i<i>m</i>ę locant<i>ur</i>, Augustino testante. Cęlu<i>m</i> huic p<i>ro</i>ximu<i>m </i>d<i>icitu</i>r firmam<i>en</i>tu<i>m</i> multiplici motu solidatu<i>m</i> p<i>ro</i>pt<i>er</i> sustentacione<i>m</i> superiore<i>m</i> aquarum ad igne<i>m</i> syderu<i>m</i> te<i>m</i>perandu<i>m</i>. Cęlu<i>m</i> inferius ęthereu<i>m</i> iacincto simile t<i>er</i>ris est p<i>ro</i>ximu<i>m</i>. Om<i>n</i>is t<i>er</i>ra quę colit<i>ur</i> parua insula est circu<i>m</i>fusa mari Oceano, quę in parte Septentrionali a filiis Adę colitur media; parte<i>m </i>aute<i>m</i> altera<i>m</i>, Australe<i>m</i> uidelic<i>et</i>, ut ferunt, antipodes obtinent.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Cęlu<i>m</i> superioris circuli D<i>eu</i>m uirtutesq<i>ue</i> co<i>n</i>tin<i>et</i> angelicas, q<i>uo</i>d D<i>eu</i>s glacialibus aquis solidauit. Cęlum huic p<i>ro</i>ximum co<i>n</i>tin<i>et</i> infixos stellaru<i>m</i> cursus et<i>er</i>nos. Cęlu<i>m </i>a suppremo t<i>er</i>tiu<i>m</i> celestes co<i>n</i>tin<i>et</i> potestates. Cęlu<i>m</i> á sup<i>er</i>no quartu<i>m</i> co<i>n</i>tin<i>et</i> ang<i>e</i>los <i>et</i> archang<i>e</i>los, q<i>ui</i> ad nos nuntiando exue<i>n</i>t. Celu<i>m</i> a supp<i>re</i>mo Vtum co<i>n</i>tin<i>et</i> paradysum, in q<i>uo</i> Paulus fuerat raptus, ubi p<i>er</i>fector<i>um</i> a<i>n</i>i<i>m</i>ę locant<i>ur</i>, Augustino testante. Cęlu<i>m</i> huic p<i>ro</i>ximu<i>m </i>d<i>icitu</i>r firmam<i>en</i>tu<i>m</i> multiplici motu solidatu<i>m</i> p<i>ro</i>pt<i>er</i> sustentacione<i>m</i> superiore<i>m</i> aquarum ad igne<i>m</i> syderu<i>m</i> te<i>m</i>perandu<i>m</i>. Cęlu<i>m</i> inferius ęthereu<i>m</i> iacincto simile t<i>er</i>ris est p<i>ro</i>ximu<i>m</i>. Om<i>n</i>is t<i>er</i>ra quę colit<i>ur</i> parua insula est circu<i>m</i>fusa mari Oceano, quę in parte Septentrionali a filiis Adę colitur media; parte<i>m </i>aute<i>m</i> altera<i>m</i>, Australe<i>m</i> uidelic<i>et</i>, ut ferunt, antipodes obtinent.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1286,7 +1286,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>AVGUSTINVS.<br/>Elem<i>en</i>ta mundi, id est cęlu<i>m</i> <i>et</i> teram, n<i>on</i> credam<i>us</i> abolenda p<i>er</i> igne<i>m</i> sed in Melius co<i>m</i>mutanda, figura<i>m</i> mu<i>n</i>di, id est imagine<i>m</i>, n<i>on</i> substantia<i>m</i> transituram.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>AVGUSTINVS.<br/>Elem<i>en</i>ta mundi, id est cęlu<i>m</i> <i>et</i> teram, n<i>on</i> credam<i>us</i> abolenda p<i>er</i> igne<i>m</i> sed in Melius co<i>m</i>mutanda, figura<i>m</i> mu<i>n</i>di, id est imagine<i>m</i>, n<i>on</i> substantia<i>m</i> transituram.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1312,7 +1312,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Oceanus uerus mediterraneus sub zona *****</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Oceanus uerus mediterraneus sub zona *****</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1338,7 +1338,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Oceanus quem nemo uidit hominum propter zonam feruidam</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Oceanus quem nemo uidit hominum propter zonam feruidam</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1364,7 +1364,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>CAPRICORNIVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>CAPRICORNIVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1390,7 +1390,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>AQVARIVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>AQVARIVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1416,7 +1416,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>PISCES</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>PISCES</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1442,7 +1442,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>SATURN<i>VS</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>SATURN<i>VS</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1468,7 +1468,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>ARIES</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>ARIES</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1494,7 +1494,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>T[]VRVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>T[]VRVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1520,7 +1520,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>GEMINI</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>GEMINI</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1546,7 +1546,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>CANCER</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>CANCER</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1572,7 +1572,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>LEO</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>LEO</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1598,7 +1598,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>VIRGO</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>VIRGO</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1624,7 +1624,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Saturnus</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Saturnus</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1650,7 +1650,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>LIBRA</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>LIBRA</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1676,7 +1676,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>SCORPIVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>SCORPIVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1702,7 +1702,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>SAGITTARIVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>SAGITTARIVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1728,7 +1728,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>LXXVIIII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>LXXVIIII</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1754,7 +1754,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>C</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>C</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1780,7 +1780,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>B</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>B</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1806,7 +1806,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>A</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>A</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1832,7 +1832,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>M</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>M</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1858,7 +1858,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>L</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>L</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1884,7 +1884,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>K</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>K</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1910,7 +1910,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>I</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>I</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1936,7 +1936,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>G</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>G</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1962,7 +1962,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>F</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>F</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -1988,7 +1988,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>E</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>E</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2014,7 +2014,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>D</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>D</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2040,7 +2040,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>LVNA</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>LVNA</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2066,7 +2066,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>MERCVRIVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>MERCVRIVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2092,7 +2092,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>VENVS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>VENVS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2118,7 +2118,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>SOL</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>SOL</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2144,7 +2144,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>MARS</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>MARS</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2170,7 +2170,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>IVPITER</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>IVPITER</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2196,7 +2196,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Mo<i>n</i>tes Rifei<br/>Zona Septe<i>n</i>tri-onal<i>is</i> frigida inhabitabi-lis</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Mo<i>n</i>tes Rifei<br/>Zona Septe<i>n</i>tri-onal<i>is</i> frigida inhabitabi-lis</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2222,7 +2222,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>India</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>India</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2248,7 +2248,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Babil<i>on</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Babil<i>on</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2274,7 +2274,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Mare Indicu<i>m</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Mare Indicu<i>m</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2300,7 +2300,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Mare Caspiu<i>m</i> Gog Magog</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Mare Caspiu<i>m</i> Gog Magog</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2326,7 +2326,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Zona Australis frigida inhabita-bilis</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Zona Australis frigida inhabita-bilis</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2352,7 +2352,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>ASIA<br/>Zona Septe<i>n</i>trional<i>is</i> te<i>m</i>perata habital<i>is</i> nostra</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>ASIA<br/>Zona Septe<i>n</i>trional<i>is</i> te<i>m</i>perata habital<i>is</i> nostra</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2378,7 +2378,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Tanais</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Tanais</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2404,7 +2404,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Lybia</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Lybia</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2430,7 +2430,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Africa</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Africa</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2456,7 +2456,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Nil<i>us</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Nil<i>us</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2482,7 +2482,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Rome<br/>Europa</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Rome<br/>Europa</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2508,7 +2508,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Ispania</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Ispania</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2534,7 +2534,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Calpe</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Calpe</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2560,7 +2560,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Gades</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Gades</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2586,7 +2586,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Adlans</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Adlans</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2612,7 +2612,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Zona Austral<i>is</i> temperata filiis Adę incognita<br/>Plaga antipodum</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Zona Austral<i>is</i> temperata filiis Adę incognita<br/>Plaga antipodum</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2638,7 +2638,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Verus Oceanus</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Verus Oceanus</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2664,7 +2664,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>GLOBVS TERRE</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>GLOBVS TERRE</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2690,7 +2690,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Mare medit<i>e</i>rraneum <i>et</i> zona p<i>er</i>usta p<i>er</i> mediu<i>m</i> a feruore solis p<i>er</i> zodiac<i>um</i> curretis</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Mare medit<i>e</i>rraneum <i>et</i> zona p<i>er</i>usta p<i>er</i> mediu<i>m</i> a feruore solis p<i>er</i> zodiac<i>um</i> curretis</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2716,7 +2716,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>Medit<i>er</i>raneu<i>m</i>[/MareN<i>ostru</i>m]</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Medit<i>er</i>raneu<i>m</i>[/MareN<i>ostru</i>m]</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2742,7 +2742,7 @@
 				"type": "TextualBody",
 				"language": "nl",
 				"format": "text/html",
-				"value": "<p>ZODIACVS CIRCVLVS P<i>E</i>R QVEM PLANETE CVRR<i>VNT</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>ZODIACVS CIRCVLVS P<i>E</i>R QVEM PLANETE CVRR<i>VNT</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2768,7 +2768,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2794,7 +2794,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2820,7 +2820,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2846,7 +2846,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Serpent-Bearer</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Serpent-Bearer</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2872,7 +2872,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Scorpion</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Scorpion</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2898,7 +2898,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Ox-Driver</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Ox-Driver</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2924,7 +2924,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Great Bear</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Great Bear</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2950,7 +2950,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Little Bear</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Little Bear</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -2976,7 +2976,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Hercules</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Hercules</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3002,7 +3002,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Serpent</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Serpent</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3028,7 +3028,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Crown</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Crown</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3054,7 +3054,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Polar Star</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Derolez, A. (2015). <i>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</i> (Vol. 76). London: Harvey Miller, p. 103, 227</p></div></section>"
+				"value": "<p>Polar Star</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Derolez, A. (2015). <cite>The making and meaning of the Liber Floridus: a study of the original manuscript, Ghent, University Library, MS 92</cite> (Vol. 76). London: Harvey Miller, p. 103, 227</p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3080,7 +3080,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Not identified yellow</h1><p>A second type of yellow is a very bright light yellow. This type of yellow can be found on folios 6v, 13r, 88r, 88v, 89r and 260r. The pigment used to create this light yellow colour could not be identified with Raman spectroscopy and XRF spectroscopy. In agreement with the suggestion for the green pigment, we think that an organic yellow lake or dye is used for this type of yellow.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1>Not identified yellow</h1><p>A second type of yellow is a very bright light yellow. This type of yellow can be found on folios 6v, 13r, 88r, 88v, 89r and 260r. The pigment used to create this light yellow colour could not be identified with Raman spectroscopy and XRF spectroscopy. In agreement with the suggestion for the green pigment, we think that an organic yellow lake or dye is used for this type of yellow.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3106,7 +3106,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Vermilion\">Vermilion</a></h1><p>The in situ Raman analysis of the red pigment showed that vermilion (HgS) is used as red pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3132,7 +3132,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1><a href=\"https://en.wikipedia.org/wiki/Ultramarine#:~:text=Ultramarine%20is%20a%20deep%20blue,the%2014th%20and%2015th%20centuries.\">Ultramarine</a></h1><p>The in situ Raman analysis of the blue pigment showed for almost all folios and the bifolio, that ultramarine (Na8–10Al6Si6O24S2–4) is used as blue pigment.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3158,7 +3158,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <i>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</i> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></div></section>"
+				"value": "<h1>Greenmixture</h1><p>The pigment responsible for the green colour could not been identified with Raman or XRF spectroscopy. Looking at the sample under the microscope, it showed green, yellow and blue particles. Analysis of the blue grains with Raman spectroscopy revealed the use of ultramarine. Probably the blue pigment was mixed with a yellow lake, to produce the green colour.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Deneckere, A., De Reu, M., Martens, M., De Coene, K., Vekemans, B., Vincze, L., … Moens, L. (2011). <cite>The use of a multi-method approach to identify the pigments in the 12th century manuscript Liber Floridus.</cite> SPECTROCHIMICA ACTA PART A-MOLECULAR AND BIOMOLECULAR SPECTROSCOPY, 80(1), 125–132. <a href=\"https://doi.org/10.1016/j.saa.2011.03.005\">https://doi.org/10.1016/j.saa.2011.03.005</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3184,7 +3184,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>LXXVIIII</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>LXXVIIII</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3210,7 +3210,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>DE ORDINE ET POSITIONE SIGNORV<i>M.</i></p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>DE ORDINE ET POSITIONE SIGNORV<i>M.</i></p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3236,7 +3236,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Helicę Arcturus Maior habet stellas in capite VII, in singulis humeris singulas, in armo I, in pectore I, in pede priori claras II, in su<i>m</i>ma caude I, in ue<i>n</i>tre clara<i>m</i> I, in crure posterior duas, in extremo pede II, in cauda III. Fiunt XXII.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Helicę Arcturus Maior habet stellas in capite VII, in singulis humeris singulas, in armo I, in pectore I, in pede priori claras II, in su<i>m</i>ma caude I, in ue<i>n</i>tre clara<i>m</i> I, in crure posterior duas, in extremo pede II, in cauda III. Fiunt XXII.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3262,7 +3262,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Cęnosura Arctur<i>us</i> Minor h<i>abe</i>t stellas in uno latere IIII claras in q<i>ua</i>d \r/o positas, in cauda claras III. Sub his pol<i>us</i> appar<i>et</i>, circu<i>m</i> q<i>uo</i>d syd<i>us</i> tot<i>us</i> orbis uerti putatur. Serpens, qui inter Arcturos medius iacet, habet stellas in capite claras V et in toto corpore X.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Cęnosura Arctur<i>us</i> Minor h<i>abe</i>t stellas in uno latere IIII claras in q<i>ua</i>d \r/o positas, in cauda claras III. Sub his pol<i>us</i> appar<i>et</i>, circu<i>m</i> q<i>uo</i>d syd<i>us</i> tot<i>us</i> orbis uerti putatur. Serpens, qui inter Arcturos medius iacet, habet stellas in capite claras V et in toto corpore X.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3288,7 +3288,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Hercules in capite I, in brachio I, in humeris sing<i>u</i>lis claras, in sinistro cubito I, in manu I, in utrisq<i>ue</i> ilib<i>us</i> I, in femore II, in pede I, sup<i>ra</i> dextra<i>m</i> manu<i>m</i> I, in pelle leonis IIII. Fiunt XVI.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Hercules in capite I, in brachio I, in humeris sing<i>u</i>lis claras, in sinistro cubito I, in manu I, in utrisq<i>ue</i> ilib<i>us</i> I, in femore II, in pede I, sup<i>ra</i> dextra<i>m</i> manu<i>m</i> I, in pelle leonis IIII. Fiunt XVI.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3314,7 +3314,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Serpentariu<i>s</i> in capite I, in sing<i>u</i>lis humeris <i>et</i> pedib<i>us</i> I, in sinistra manu III, in dextra IIII, in cubitis sing<i>u</i>lis <i>et</i> genib<i>us</i> sing<i>u</i>las, i<i>n</i> crure I. Fiunt XVII, om<i>ne</i>s clare. Serpens in ore II, in capite IIII, usc<i>ue</i> manu<i>m</i> se tenentis II, in flexu xorporis XV. Su<i>m</i>ma XXIII. </p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Serpentariu<i>s</i> in capite I, in sing<i>u</i>lis humeris <i>et</i> pedib<i>us</i> I, in sinistra manu III, in dextra IIII, in cubitis sing<i>u</i>lis <i>et</i> genib<i>us</i> sing<i>u</i>las, i<i>n</i> crure I. Fiunt XVII, om<i>ne</i>s clare. Serpens in ore II, in capite IIII, usc<i>ue</i> manu<i>m</i> se tenentis II, in flexu xorporis XV. Su<i>m</i>ma XXIII. </p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3340,7 +3340,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Boetes Artophilax h<i>abe</i>t stellas in dextera manu IIII, que n<i>on</i> óccid<i>un</i>t; i<i>n</i> capite I, in sing<i>u</i>lis humeris <i>et</i> mamillis sing<i>u</i>las, i<i>n</i> dextro cubito I, int<i>er</i> genua I, in singulis pedib<i>us</i> sing<i>u</i>las.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Boetes Artophilax h<i>abe</i>t stellas in dextera manu IIII, que n<i>on</i> óccid<i>un</i>t; i<i>n</i> capite I, in sing<i>u</i>lis humeris <i>et</i> mamillis sing<i>u</i>las, i<i>n</i> dextro cubito I, int<i>er</i> genua I, in singulis pedib<i>us</i> sing<i>u</i>las.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3366,7 +3366,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Corona h<i>abe</i>t stellas VIII in orbe<i>m</i> positas, quaru<i>m</i> III clare co<i>n</i>tra cap<i>ut</i> Serpentis Septe<i>n</i>trionalis.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Corona h<i>abe</i>t stellas VIII in orbe<i>m</i> positas, quaru<i>m</i> III clare co<i>n</i>tra cap<i>ut</i> Serpentis Septe<i>n</i>trionalis.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3392,7 +3392,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Corona post t<i>er</i>gu<i>m</i> Hercul<i>is</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Corona post t<i>er</i>gu<i>m</i> Hercul<i>is</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3418,7 +3418,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Polus sub cauda Vrse Minoris.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Polus sub cauda Vrse Minoris.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3444,7 +3444,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Hercules</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Hercules</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3470,7 +3470,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Vrsa Minor</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Vrsa Minor</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3496,7 +3496,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Vrsa Maior.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Vrsa Maior.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3522,7 +3522,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Serpens</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Serpens</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3548,7 +3548,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Pell<i>is</i> leonis</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Pell<i>is</i> leonis</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3574,7 +3574,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Boetes p<i>ost</i> t<i>er</i>gu<i>m</i> Vrse Maioris uersis pedib<i>us</i> ad Virgine<i>m</i> uidet<i>ur</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Boetes p<i>ost</i> t<i>er</i>gu<i>m</i> Vrse Maioris uersis pedib<i>us</i> ad Virgine<i>m</i> uidet<i>ur</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3600,7 +3600,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Scorpione<i>m</i> calcat Serpe<i>n</i>tarius</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Scorpione<i>m</i> calcat Serpe<i>n</i>tarius</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3626,7 +3626,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Boetes</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Boetes</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3652,7 +3652,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Scorpius h<i>abe</i>t stellas in singulis cornib<i>us</i> binas, In fronte III cl<i>aras</i>, in dorso III, ** ue<i>n</i>tre II, in cauda V, in aculeo II. Fiunt XIX. Hic in spatiu<i>m</i> duor<i>um</i> signor<i>um</i> partitur.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Scorpius h<i>abe</i>t stellas in singulis cornib<i>us</i> binas, In fronte III cl<i>aras</i>, in dorso III, ** ue<i>n</i>tre II, in cauda V, in aculeo II. Fiunt XIX. Hic in spatiu<i>m</i> duor<i>um</i> signor<i>um</i> partitur.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {
@@ -3678,7 +3678,7 @@
 				"type": "TextualBody",
 				"language": "en",
 				"format": "text/html",
-				"value": "<p>Serpe<i>n</i>tariu<i>s</i> sup<i>er</i> Hercule<i>m</i> posit<i>us</i> e<i>st</i>.</p><section role=\"doc-bibliography\"><h1>Source</h1><div role=\"list\"><p role=\"doc-biblioentry\">Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <i>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</i> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></div></section>"
+				"value": "<p>Serpe<i>n</i>tariu<i>s</i> sup<i>er</i> Hercule<i>m</i> posit<i>us</i> e<i>st</i>.</p><section role=\"doc-bibliography\"><h2>Source</h2><ul><li><p>Lambertus a S. Audomaro, L. a S. Audomaro, Derolez, A., & Strubbe, E. I. (1968). <cite>Lamberti S. Audomari canonici Liber floridus : codex autographus bibliothecae universitatis Gandavensis.</cite> Gand: Story-Scientia. <a href=\"https://lib.ugent.be/en/catalog/rug01:000066991\">https://lib.ugent.be/en/catalog/rug01:000066991</a></p></li></ul></section>"
 			},
 			"created": "2015-10-13T13:00:00Z",
 			"creator": {

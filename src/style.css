@@ -163,14 +163,16 @@
 	padding-top: 0.5rem;
 }
 
-.anno-panel section[role="doc-bibliography"] h1,
-.cross-references h1 {
+.anno-panel section[role="doc-bibliography"] h2,
+.cross-references h2 {
 	font-size: 0.9rem;
 	margin: 0;
 }
 
-.anno-panel section[role="doc-bibliography"] p {
+.anno-panel section[role="doc-bibliography"] ul {
 	font-size: 0.75rem;
+	list-style: none;
+	padding: 0;
 }
 
 .color-muted {
@@ -261,7 +263,8 @@
 }
 
 .format-html h1,
-.cross-references h1 {
+section[role="doc-bibliography"] h2,
+.cross-references h2 {
 	font-style: inherit;
 	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-weight: 400;

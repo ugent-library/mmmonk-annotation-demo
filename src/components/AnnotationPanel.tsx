@@ -143,7 +143,7 @@ function CrossReferences({ refs }: { refs: { id: string }[] }) {
 	)
 	return (
 		<section className="cross-references">
-			<h1>See also</h1>
+			<h2>See also</h2>
 			<ul>
 				{hydratedRefs.map(ref => {
 					if (ref === undefined) {

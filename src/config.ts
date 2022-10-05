@@ -2,6 +2,7 @@ import PaletteIcon from "@material-ui/icons/PaletteSharp"
 import ImageIcon from "@material-ui/icons/ImageSharp"
 import TextFieldsIcon from "@material-ui/icons/TextFieldsSharp"
 import LayersIcon from "@material-ui/icons/LayersSharp"
+import TranslateIcon from "@material-ui/icons/Translate"
 
 export const categoryModel = [
 	{
@@ -25,7 +26,7 @@ export const categoryModel = [
 	{
 		id: "translations",
 		name: "Translations",
-		icon: TextFieldsIcon,
+		icon: TranslateIcon,
 		enabledByDefault: true,
 	},
 	{
